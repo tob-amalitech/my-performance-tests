@@ -1,0 +1,1501 @@
+timeStamp,elapsed,label,responseCode,responseMessage,success,bytes,grpThreads,allThreads,Latency
+1773010097106,149,GET - Homepage (Stress),200,OK,true,1702,7,17,146
+1773010096409,1208,GET - Homepage (Stress),200,OK,true,1702,9,20,1207
+1773010097612,128,GET - Homepage (Stress),200,OK,true,1703,9,20,128
+1773010097911,38,POST - Login (Stress),405,Method Not Allowed,false,480,10,22,37
+1773010096771,1440,GET - Homepage (Stress),200,OK,true,1702,11,26,1440
+1773010098213,120,GET - Homepage (Stress),200,OK,true,1703,12,27,120
+1773010098397,34,POST - Login (Stress),405,Method Not Allowed,false,480,12,27,34
+1773010098308,202,GET - Homepage (Stress),200,OK,true,1702,12,27,202
+1773010096554,1978,GET - Homepage (Stress),200,OK,true,1702,12,27,1978
+1773010098521,38,POST - Login (Stress),405,Method Not Allowed,false,480,13,28,38
+1773010098665,125,GET - Inventory (Stress),404,Not Found,false,3953,13,30,123
+1773010098943,109,GET - Inventory (Stress),404,Not Found,false,3953,14,31,108
+1773010099040,35,POST - Login (Stress),405,Method Not Allowed,false,480,13,30,34
+1773010099290,77,POST - Login (Stress),405,Method Not Allowed,false,480,14,34,76
+1773010099290,88,POST - Login (Stress),405,Method Not Allowed,false,480,14,34,47
+1773010099400,77,POST - Login (Stress),405,Method Not Allowed,false,480,14,34,76
+1773010099380,191,GET - Inventory (Stress),404,Not Found,false,3953,15,36,148
+1773010098430,1225,GET - Homepage (Stress),200,OK,true,1702,14,35,1225
+1773010099197,503,GET - Homepage (Stress),200,OK,true,1702,14,35,503
+1773010099576,133,GET - Homepage (Stress),200,OK,true,1702,14,35,133
+1773010099627,124,GET - Homepage (Stress),200,OK,true,1702,14,35,124
+1773010099915,210,GET - Inventory (Stress),404,Not Found,false,3953,16,38,183
+1773010100241,41,POST - Login (Stress),405,Method Not Allowed,false,480,16,38,40
+1773010100208,129,GET - Inventory (Stress),404,Not Found,false,3953,16,39,127
+1773010100396,43,POST - Login (Stress),405,Method Not Allowed,false,480,15,40,43
+1773010100245,283,POST - Login (Stress),405,Method Not Allowed,false,480,16,41,283
+1773010100504,41,POST - Login (Stress),405,Method Not Allowed,false,480,16,41,40
+1773010100253,293,GET - Homepage (Stress),200,OK,true,1702,16,41,293
+1773010100505,116,GET - Homepage (Stress),200,OK,true,1702,16,42,116
+1773010100758,120,GET - Homepage (Stress),200,OK,true,1702,17,43,120
+1773010099257,1684,GET - Homepage (Stress),200,OK,true,1703,17,43,1684
+1773010101103,125,GET - Inventory (Stress),404,Not Found,false,3953,19,47,125
+1773010100449,790,GET - Homepage (Stress),200,OK,true,1702,18,46,790
+1773010101259,74,POST - Login (Stress),405,Method Not Allowed,false,480,18,46,74
+1773010101298,57,POST - Login (Stress),405,Method Not Allowed,false,480,18,46,56
+1773010100245,1122,GET - Inventory (Stress),404,Not Found,false,3953,18,46,1121
+1773010101391,38,POST - Login (Stress),405,Method Not Allowed,false,480,17,45,37
+1773010101349,111,GET - Inventory (Stress),404,Not Found,false,3953,18,46,110
+1773010101708,119,GET - Homepage (Stress),200,OK,true,1702,18,49,119
+1773010101851,47,POST - Login (Stress),405,Method Not Allowed,false,480,18,49,45
+1773010101890,38,POST - Login (Stress),405,Method Not Allowed,false,480,19,50,38
+1773010101513,469,GET - Inventory (Stress),404,Not Found,false,3953,19,51,183
+1773010102188,234,GET - Inventory (Stress),404,Not Found,false,3953,20,53,200
+1773010102097,473,GET - Homepage (Stress),200,OK,true,1702,19,52,473
+1773010102803,63,POST - Login (Stress),405,Method Not Allowed,false,480,20,56,62
+1773010103043,109,GET - Homepage (Stress),200,OK,true,1702,22,59,109
+1773010103039,121,GET - Homepage (Stress),200,OK,true,1702,22,59,121
+1773010103470,49,POST - Login (Stress),405,Method Not Allowed,false,480,23,61,49
+1773010103446,152,GET - Homepage (Stress),200,OK,true,1703,24,63,152
+1773010102019,1827,GET - Homepage (Stress),200,OK,true,1702,25,64,1827
+1773010104018,69,POST - Login (Stress),405,Method Not Allowed,false,480,26,67,40
+1773010104051,43,POST - Login (Stress),405,Method Not Allowed,false,480,26,67,42
+1773010104041,133,GET - Inventory (Stress),404,Not Found,false,3953,26,68,131
+1773010104115,151,GET - Homepage (Stress),200,OK,true,1702,25,67,150
+1773010104340,35,POST - Login (Stress),405,Method Not Allowed,false,480,26,69,34
+1773010104689,39,POST - Login (Stress),405,Method Not Allowed,false,480,27,71,38
+1773010104813,39,POST - Login (Stress),405,Method Not Allowed,false,480,28,72,39
+1773010104879,120,GET - Inventory (Stress),404,Not Found,false,3953,28,72,120
+1773010104885,117,GET - Homepage (Stress),200,OK,true,1702,27,71,117
+1773010104892,115,GET - Homepage (Stress),200,OK,true,1702,27,71,115
+1773010105255,105,GET - Inventory (Stress),404,Not Found,false,3953,29,77,105
+1773010105089,389,GET - Homepage (Stress),200,OK,true,1702,28,76,389
+1773010105415,104,GET - Inventory (Stress),404,Not Found,false,3953,29,77,104
+1773010105726,110,POST - Login (Stress),405,Method Not Allowed,false,480,29,78,109
+1773010105932,33,POST - Login (Stress),405,Method Not Allowed,false,480,29,79,32
+1773010105694,325,GET - Homepage (Stress),200,OK,true,1702,30,80,325
+1773010105996,189,GET - Homepage (Stress),200,OK,true,1702,30,80,189
+1773010106094,132,GET - Homepage (Stress),200,OK,true,1702,30,80,132
+1773010106274,109,GET - Homepage (Stress),200,OK,true,1702,31,82,109
+1773010104238,2311,GET - Homepage (Stress),200,OK,true,1702,32,84,2311
+1773010106486,148,GET - Inventory (Stress),404,Not Found,false,3953,32,85,147
+1773010106472,163,GET - Homepage (Stress),200,OK,true,1702,31,84,163
+1773010106780,63,POST - Login (Stress),405,Method Not Allowed,false,480,32,86,63
+1773010106434,497,POST - Login (Stress),405,Method Not Allowed,false,480,32,86,497
+1773010107047,48,POST - Login (Stress),405,Method Not Allowed,false,480,33,88,47
+1773010107109,48,POST - Login (Stress),405,Method Not Allowed,false,480,33,88,48
+1773010107132,131,GET - Homepage (Stress),200,OK,true,1702,34,89,131
+1773010107213,120,GET - Homepage (Stress),200,OK,true,1702,34,89,120
+1773010107256,153,GET - Homepage (Stress),200,OK,true,1702,34,89,153
+1773010107370,40,POST - Login (Stress),405,Method Not Allowed,false,480,34,89,40
+1773010107492,48,POST - Login (Stress),405,Method Not Allowed,false,480,35,91,48
+1773010097432,10129,GET - Homepage (Stress),200,OK,true,1703,35,91,10129
+1773010106847,845,POST - Login (Stress),405,Method Not Allowed,false,480,36,94,844
+1773010107623,253,GET - Inventory (Stress),404,Not Found,false,3953,36,95,252
+1773010107900,38,POST - Login (Stress),405,Method Not Allowed,false,480,36,95,37
+1773010108158,66,POST - Login (Stress),405,Method Not Allowed,false,480,37,97,65
+1773010108074,150,POST - Login (Stress),405,Method Not Allowed,false,480,37,97,149
+1773010108011,275,GET - Homepage (Stress),200,OK,true,1702,37,97,275
+1773010108256,71,POST - Login (Stress),405,Method Not Allowed,false,480,37,97,71
+1773010108195,142,GET - Inventory (Stress),404,Not Found,false,3953,37,97,142
+1773010108059,615,GET - Inventory (Stress),404,Not Found,false,3953,38,99,293
+1773010108676,125,GET - Homepage (Stress),200,OK,true,1702,37,99,125
+1773010108626,273,GET - Inventory (Stress),404,Not Found,false,3953,38,101,272
+1773010108951,82,POST - Login (Stress),405,Method Not Allowed,false,480,37,101,81
+1773010108985,223,GET - Homepage (Stress),200,OK,true,1702,38,103,223
+1773010097899,11402,GET - Homepage (Stress),200,OK,true,1702,38,103,11402
+1773010109059,284,GET - Inventory (Stress),404,Not Found,false,3953,38,103,280
+1773010109184,214,GET - Inventory (Stress),404,Not Found,false,3953,38,103,213
+1773010109564,97,POST - Login (Stress),405,Method Not Allowed,false,480,38,104,97
+1773010109481,226,GET - Homepage (Stress),200,OK,true,1703,38,104,226
+1773010108449,1346,GET - Inventory (Stress),404,Not Found,false,3953,38,104,1190
+1773010099621,10463,GET - Inventory (Stress),404,Not Found,false,3953,39,108,10201
+1773010110001,84,POST - Login (Stress),405,Method Not Allowed,false,480,39,108,84
+1773010110322,1439,POST - Login (Stress),405,Method Not Allowed,false,480,45,121,1438
+1773010110055,1711,GET - Homepage (Stress),200,OK,true,1702,45,121,1711
+1773010110276,1491,POST - Login (Stress),405,Method Not Allowed,false,480,45,121,1490
+1773010103518,8250,GET - Inventory (Stress),Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,false,3251,45,121,0
+1773010103531,8238,GET - Homepage (Stress),Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,false,3251,45,121,0
+1773010101328,10463,GET - Homepage (Stress),Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,false,3251,44,120,0
+1773010112638,2012,POST - Login (Stress),405,Method Not Allowed,false,480,56,144,2012
+1773010106821,7831,GET - Homepage (Stress),Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,false,3251,56,144,0
+1773010112929,1940,GET - Homepage (Stress),Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,false,3251,56,147,0
+1773010101183,13688,GET - Inventory (Stress),404,Not Found,false,3953,56,147,13688
+1773010110915,3956,GET - Homepage (Stress),200,OK,true,1702,55,146,3956
+1773010110627,4245,GET - Homepage (Stress),200,OK,true,1702,55,146,4245
+1773010110594,4279,GET - Homepage (Stress),200,OK,true,1702,55,146,4279
+1773010115533,74,POST - Login (Stress),405,Method Not Allowed,false,480,59,153,73
+1773010115334,323,POST - Login (Stress),405,Method Not Allowed,false,480,59,153,322
+1773010115519,178,POST - Login (Stress),405,Method Not Allowed,false,480,59,153,177
+1773010115671,107,GET - Homepage (Stress),200,OK,true,1702,59,153,107
+1773010115705,85,POST - Login (Stress),405,Method Not Allowed,false,480,59,153,84
+1773010111352,4485,GET - Homepage (Stress),200,OK,true,1702,59,153,4485
+1773010104772,11137,GET - Inventory (Stress),404,Not Found,false,3953,60,154,11136
+1773010112653,3256,GET - Homepage (Stress),200,OK,true,1702,60,154,3256
+1773010115826,152,GET - Homepage (Stress),200,OK,true,1702,59,154,152
+1773010112897,3168,GET - Homepage (Stress),200,OK,true,1702,59,155,3168
+1773010102602,13498,GET - Inventory (Stress),404,Not Found,false,3953,60,156,13461
+1773010112588,3511,GET - Inventory (Stress),404,Not Found,false,3953,60,156,3477
+1773010114028,2101,GET - Homepage (Stress),200,OK,true,1702,58,154,2101
+1773010101908,14234,GET - Inventory (Stress),404,Not Found,false,3953,58,154,14233
+1773010101955,14188,GET - Inventory (Stress),404,Not Found,false,3953,57,153,14187
+1773010112033,4186,GET - Homepage (Stress),200,OK,true,1702,56,153,4186
+1773010112351,4131,POST - Login (Stress),405,Method Not Allowed,false,480,57,155,4094
+1773010111431,5171,GET - Homepage (Stress),200,OK,true,1703,58,156,5171
+1773010116602,42,POST - Login (Stress),405,Method Not Allowed,false,480,58,157,40
+1773010116592,99,POST - Login (Stress),405,Method Not Allowed,false,480,58,157,98
+1773010116672,27,POST - Login (Stress),405,Method Not Allowed,false,480,58,157,26
+1773010116580,121,GET - Inventory (Stress),404,Not Found,false,3953,58,157,121
+1773010116399,323,GET - Homepage (Stress),200,OK,true,1702,57,156,323
+1773010116375,348,POST - Login (Stress),405,Method Not Allowed,false,480,57,156,347
+1773010115482,1284,POST - Login (Stress),405,Method Not Allowed,false,480,57,156,1283
+1773010116776,45,POST - Login (Stress),405,Method Not Allowed,false,480,58,157,45
+1773010116527,444,GET - Homepage (Stress),200,OK,true,1702,58,157,444
+1773010114201,2792,GET - Homepage (Stress),200,OK,true,1702,58,157,2792
+1773010103959,13037,GET - Homepage (Stress),200,OK,true,1702,58,157,13037
+1773010115315,1681,GET - Homepage (Stress),200,OK,true,1703,58,157,1681
+1773010116953,60,POST - Login (Stress),405,Method Not Allowed,false,480,58,157,60
+1773010116986,136,POST - Login (Stress),405,Method Not Allowed,false,480,59,159,96
+1773010104466,12730,GET - Homepage (Stress),200,OK,true,1702,59,160,12730
+1773010100275,16967,GET - Homepage (Stress),200,OK,true,1702,59,161,16966
+1773010117190,169,GET - Homepage (Stress),200,OK,true,1702,60,163,169
+1773010117296,127,POST - Login (Stress),405,Method Not Allowed,false,480,60,163,78
+1773010117403,58,POST - Login (Stress),405,Method Not Allowed,false,480,60,163,58
+1773010117073,509,GET - Homepage (Stress),200,OK,true,1703,61,164,508
+1773010117545,77,POST - Login (Stress),405,Method Not Allowed,false,480,61,164,77
+1773010117464,169,GET - Inventory (Stress),404,Not Found,false,3953,61,164,168
+1773010117545,111,POST - Login (Stress),405,Method Not Allowed,false,480,60,163,76
+1773010117477,197,GET - Inventory (Stress),404,Not Found,false,3953,60,163,197
+1773010117572,295,GET - Inventory (Stress),404,Not Found,false,3953,60,164,295
+1773010117856,60,POST - Login (Stress),405,Method Not Allowed,false,480,59,163,58
+1773010117835,81,POST - Login (Stress),405,Method Not Allowed,false,480,59,163,79
+1773010117403,515,GET - Homepage (Stress),200,OK,true,1703,59,163,515
+1773010116608,1313,GET - Inventory (Stress),404,Not Found,false,3953,59,163,1240
+1773010102602,15401,GET - Homepage (Stress),200,OK,true,1702,59,164,15401
+1773010117631,450,GET - Inventory (Stress),404,Not Found,false,3953,59,164,236
+1773010107953,10205,GET - Homepage (Stress),200,OK,true,1703,58,163,10205
+1773010107890,10280,GET - Inventory (Stress),404,Not Found,false,3953,58,163,10192
+1773010118135,74,POST - Login (Stress),405,Method Not Allowed,false,480,57,162,74
+1773010118188,62,POST - Login (Stress),405,Method Not Allowed,false,480,58,163,62
+1773010118265,148,GET - Homepage (Stress),200,OK,true,1703,58,165,148
+1773010118315,113,GET - Inventory (Stress),404,Not Found,false,3953,58,165,111
+1773010118122,370,GET - Inventory (Stress),404,Not Found,false,3953,58,165,367
+1773010118392,155,GET - Homepage (Stress),200,OK,true,1703,57,164,155
+1773010117387,1161,GET - Inventory (Stress),404,Not Found,false,3953,57,164,1161
+1773010117935,621,POST - Login (Stress),405,Method Not Allowed,false,480,56,164,620
+1773010108469,10126,GET - Inventory (Stress),404,Not Found,false,3953,56,164,10125
+1773010118417,232,GET - Inventory (Stress),404,Not Found,false,3953,55,163,191
+1773010118570,79,POST - Login (Stress),405,Method Not Allowed,false,480,55,163,43
+1773010118051,601,GET - Inventory (Stress),404,Not Found,false,3953,54,162,601
+1773010118156,591,GET - Inventory (Stress),404,Not Found,false,3953,54,162,160
+1773010117600,1438,GET - Inventory (Stress),404,Not Found,false,3953,54,164,1438
+1773010118985,53,POST - Login (Stress),405,Method Not Allowed,false,480,54,164,53
+1773010119047,46,POST - Login (Stress),405,Method Not Allowed,false,480,53,163,46
+1773010108866,10263,GET - Inventory (Stress),404,Not Found,false,3953,53,163,10222
+1773010114509,4669,GET - Homepage (Stress),200,OK,true,1702,52,162,4669
+1773010118708,500,POST - Login (Stress),405,Method Not Allowed,false,480,53,163,499
+1773010119067,231,GET - Inventory (Stress),404,Not Found,false,3953,53,163,231
+1773010119135,181,GET - Homepage (Stress),200,OK,true,1703,52,162,181
+1773010119176,160,GET - Inventory (Stress),404,Not Found,false,3953,52,162,142
+1773010118697,640,GET - Inventory (Stress),404,Not Found,false,3953,51,161,162
+1773010119164,175,GET - Homepage (Stress),200,OK,true,1702,50,160,175
+1773010119485,84,POST - Login (Stress),405,Method Not Allowed,false,480,51,163,83
+1773010119509,179,GET - Inventory (Stress),404,Not Found,false,3953,52,165,168
+1773010119609,169,GET - Homepage (Stress),200,OK,true,1703,51,165,169
+1773010109123,10674,GET - Homepage (Stress),200,OK,true,1702,51,165,10674
+1773010119756,216,GET - Inventory (Stress),404,Not Found,false,3953,52,166,170
+1773010119941,68,POST - Login (Stress),405,Method Not Allowed,false,480,51,165,53
+1773010118834,1198,GET - Inventory (Stress),404,Not Found,false,3953,51,165,1198
+1773010119726,329,GET - Inventory (Stress),404,Not Found,false,3953,50,164,325
+1773010109951,10177,GET - Homepage (Stress),200,OK,true,1702,49,163,10177
+1773010110126,10131,GET - Homepage (Stress),200,OK,true,1702,50,165,10131
+1773010120221,92,POST - Login (Stress),405,Method Not Allowed,false,480,50,165,55
+1773010120317,34,POST - Login (Stress),405,Method Not Allowed,false,480,50,165,33
+1773010110182,10187,GET - Inventory (Stress),404,Not Found,false,3953,50,166,10187
+1773010120391,152,GET - Homepage (Stress),200,OK,true,1703,50,166,152
+1773010120453,95,POST - Login (Stress),405,Method Not Allowed,false,480,50,166,95
+1773010120404,246,GET - Inventory (Stress),404,Not Found,false,3953,51,167,246
+1773010120686,55,POST - Login (Stress),405,Method Not Allowed,false,480,50,167,54
+1773010107844,12964,GET - Homepage (Stress),200,OK,true,1703,50,168,12964
+1773010119851,1197,GET - Homepage (Stress),200,OK,true,1703,51,170,1197
+1773010120942,158,GET - Inventory (Stress),404,Not Found,false,3953,51,170,158
+1773010121060,55,POST - Login (Stress),405,Method Not Allowed,false,480,50,169,54
+1773010121062,54,POST - Login (Stress),405,Method Not Allowed,false,480,50,169,54
+1773010120951,218,GET - Inventory (Stress),404,Not Found,false,3953,51,171,218
+1773010121197,32,POST - Login (Stress),405,Method Not Allowed,false,480,50,170,31
+1773010121533,122,POST - Login (Stress),405,Method Not Allowed,false,480,52,173,122
+1773010121325,363,GET - Homepage (Stress),200,OK,true,1703,52,173,363
+1773010121641,57,POST - Login (Stress),405,Method Not Allowed,false,480,52,173,55
+1773010113450,8332,GET - Homepage (Stress),Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,false,3251,52,173,0
+1773010121322,474,GET - Inventory (Stress),404,Not Found,false,3953,52,173,472
+1773010111075,10754,GET - Inventory (Stress),Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,false,3251,51,172,0
+1773010121817,153,GET - Homepage (Stress),200,OK,true,1703,51,174,153
+1773010114450,7600,GET - Homepage (Stress),Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,false,3251,51,175,0
+1773010101886,20222,GET - Homepage (Stress),200,OK,true,1702,52,176,20222
+1773010121893,286,GET - Inventory (Stress),404,Not Found,false,3953,52,177,156
+1773010118042,4309,POST - Login (Stress),405,Method Not Allowed,false,480,52,177,4309
+1773010122387,172,POST - Login (Stress),405,Method Not Allowed,false,480,53,178,171
+1773010122464,95,POST - Login (Stress),405,Method Not Allowed,false,480,53,178,94
+1773010114993,7615,GET - Homepage (Stress),Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,false,3251,53,179,0
+1773010122430,206,GET - Inventory (Stress),404,Not Found,false,3953,53,179,205
+1773010102633,20186,GET - Inventory (Stress),404,Not Found,false,3953,53,180,20185
+1773010121656,1213,GET - Homepage (Stress),200,OK,true,1702,52,179,1213
+1773010112448,10425,GET - Homepage (Stress),200,OK,true,1702,52,179,10425
+1773010122848,58,POST - Login (Stress),405,Method Not Allowed,false,480,52,179,57
+1773010122671,298,GET - Inventory (Stress),404,Not Found,false,3953,52,179,151
+1773010122918,92,POST - Login (Stress),405,Method Not Allowed,false,480,51,178,51
+1773010102846,20182,GET - Homepage (Stress),200,OK,true,1702,51,178,20182
+1773010123053,198,GET - Inventory (Stress),404,Not Found,false,3953,52,181,184
+1773010122726,534,GET - Homepage (Stress),200,OK,true,1702,51,180,534
+1773010123408,53,POST - Login (Stress),405,Method Not Allowed,false,480,52,182,53
+1773010111927,11571,GET - Homepage (Stress),200,OK,true,1703,52,182,11571
+1773010123448,163,POST - Login (Stress),405,Method Not Allowed,false,480,53,184,162
+1773010123373,304,GET - Homepage (Stress),200,OK,true,1702,53,184,304
+1773010123636,54,POST - Login (Stress),405,Method Not Allowed,false,480,53,184,53
+1773010121930,2016,GET - Inventory (Stress),404,Not Found,false,3953,54,186,1976
+1773010123859,134,POST - Login (Stress),405,Method Not Allowed,false,480,53,185,75
+1773010113021,11136,GET - Homepage (Stress),200,OK,true,1702,54,186,11136
+1773010123891,329,GET - Homepage (Stress),200,OK,true,1703,54,186,329
+1773010124249,80,POST - Login (Stress),405,Method Not Allowed,false,480,55,188,41
+1773010124234,139,GET - Homepage (Stress),200,OK,true,1703,55,189,139
+1773010124257,151,GET - Inventory (Stress),404,Not Found,false,3953,55,190,135
+1773010124091,466,POST - Login (Stress),405,Method Not Allowed,false,480,55,191,466
+1773010124497,88,POST - Login (Stress),405,Method Not Allowed,false,480,55,191,43
+1773010123356,1319,GET - Inventory (Stress),404,Not Found,false,3953,55,191,1319
+1773010124791,43,POST - Login (Stress),405,Method Not Allowed,false,480,55,191,37
+1773010124673,255,GET - Inventory (Stress),404,Not Found,false,3953,55,191,182
+1773010124711,235,GET - Homepage (Stress),200,OK,true,1703,54,190,235
+1773010124808,203,GET - Homepage (Stress),200,OK,true,1702,55,192,203
+1773010112600,12435,POST - Login (Stress),405,Method Not Allowed,false,480,55,192,12435
+1773010124954,122,GET - Inventory (Stress),404,Not Found,false,3953,55,192,122
+1773010124365,726,GET - Homepage (Stress),200,OK,true,1703,54,191,726
+1773010125324,47,POST - Login (Stress),405,Method Not Allowed,false,480,55,193,47
+1773010115448,10131,GET - Inventory (Stress),404,Not Found,false,3953,56,195,10131
+1773010125137,447,POST - Login (Stress),405,Method Not Allowed,false,480,55,194,447
+1773010125601,47,POST - Login (Stress),405,Method Not Allowed,false,480,55,195,47
+1773010125525,191,GET - Inventory (Stress),404,Not Found,false,3953,56,196,191
+1773010125687,123,POST - Login (Stress),405,Method Not Allowed,false,480,55,196,123
+1773010125935,45,POST - Login (Stress),405,Method Not Allowed,false,480,56,197,45
+1773010115537,10597,GET - Homepage (Stress),200,OK,true,1702,56,197,10597
+1773010119046,7182,GET - Inventory (Stress),Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,false,3251,57,199,0
+1773010126179,254,GET - Inventory (Stress),404,Not Found,false,3953,57,199,254
+1773010125828,648,GET - Homepage (Stress),200,OK,true,1703,56,198,648
+1773010126624,194,GET - Homepage (Stress),200,OK,true,1703,57,202,193
+1773010116194,10720,GET - Homepage (Stress),200,OK,true,1703,58,203,10720
+1773010126772,196,GET - Inventory (Stress),404,Not Found,false,3953,58,204,196
+1773010116293,10733,GET - Inventory (Stress),404,Not Found,false,3953,57,203,10733
+1773010119930,7200,GET - Inventory (Stress),Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,false,3251,57,203,0
+1773010127089,187,GET - Homepage (Stress),200,OK,true,1702,56,201,187
+1773010127159,151,GET - Homepage (Stress),200,OK,true,1703,56,201,151
+1773010126094,1234,GET - Inventory (Stress),404,Not Found,false,3953,56,201,1182
+1773010126682,767,GET - Inventory (Stress),404,Not Found,false,3953,56,202,711
+1773010127465,65,POST - Login (Stress),405,Method Not Allowed,false,480,55,201,64
+1773010117364,10222,GET - Inventory (Stress),404,Not Found,false,3953,55,202,10222
+1773010127393,215,GET - Homepage (Stress),200,OK,true,1703,55,202,215
+1773010127579,70,POST - Login (Stress),405,Method Not Allowed,false,480,55,202,70
+1773010127581,70,POST - Login (Stress),405,Method Not Allowed,false,480,55,202,69
+1773010127928,82,POST - Login (Stress),405,Method Not Allowed,false,480,56,205,82
+1773010128040,67,POST - Login (Stress),405,Method Not Allowed,false,480,57,206,67
+1773010126989,1120,POST - Login (Stress),405,Method Not Allowed,false,480,57,206,1120
+1773010127959,195,GET - Homepage (Stress),200,OK,true,1703,57,206,195
+1773010107899,20257,GET - Inventory (Stress),404,Not Found,false,3953,57,207,20257
+1773010128122,56,POST - Login (Stress),405,Method Not Allowed,false,480,56,206,56
+1773010108268,20191,GET - Homepage (Stress),200,OK,true,1703,57,208,20191
+1773010125816,2755,GET - Inventory (Stress),404,Not Found,false,3953,58,209,1554
+1773010118555,10175,GET - Homepage (Stress),200,OK,true,1703,57,209,10175
+1773010117579,11230,GET - Inventory (Stress),404,Not Found,false,3953,58,210,11218
+1773010128639,252,GET - Inventory (Stress),404,Not Found,false,3953,57,209,252
+1773010128802,98,POST - Login (Stress),405,Method Not Allowed,false,480,56,208,96
+1773010126632,2349,GET - Homepage (Stress),200,OK,true,1702,56,208,2349
+1773010129190,58,POST - Login (Stress),405,Method Not Allowed,false,480,57,212,58
+1773010122091,7162,GET - Inventory (Stress),Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,false,3251,57,212,0
+1773010117926,11390,GET - Homepage (Stress),200,OK,true,1703,57,212,11390
+1773010127657,1719,GET - Homepage (Stress),200,OK,true,1702,57,213,1719
+1773010128834,548,GET - Homepage (Stress),200,OK,true,1702,57,213,548
+1773010129396,162,GET - Homepage (Stress),200,OK,true,1702,58,214,162
+1773010128894,696,GET - Homepage (Stress),200,OK,true,1703,58,214,696
+1773010129179,550,GET - Inventory (Stress),404,Not Found,false,3953,58,214,550
+1773010109575,20162,GET - Inventory (Stress),404,Not Found,false,3953,57,213,20161
+1773010129679,59,POST - Login (Stress),405,Method Not Allowed,false,480,56,212,57
+1773010129688,63,POST - Login (Stress),405,Method Not Allowed,false,480,56,212,63
+1773010129579,229,GET - Homepage (Stress),200,OK,true,1703,57,214,229
+1773010109807,20150,GET - Homepage (Stress),200,OK,true,1702,57,214,20150
+1773010119638,10496,GET - Homepage (Stress),200,OK,true,1702,58,216,10496
+1773010130058,166,GET - Homepage (Stress),200,OK,true,1703,58,216,166
+1773010130057,168,POST - Login (Stress),405,Method Not Allowed,false,480,58,216,167
+1773010130197,33,POST - Login (Stress),405,Method Not Allowed,false,480,58,216,32
+1773010123163,7183,GET - Homepage (Stress),Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,false,3251,59,218,0
+1773010130131,235,GET - Homepage (Stress),200,OK,true,1703,59,218,235
+1773010123239,7172,GET - Inventory (Stress),Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,false,3251,59,219,0
+1773010130336,90,POST - Login (Stress),405,Method Not Allowed,false,480,58,218,56
+1773010130391,59,POST - Login (Stress),405,Method Not Allowed,false,480,58,218,58
+1773010130117,491,POST - Login (Stress),405,Method Not Allowed,false,480,59,220,491
+1773010130525,124,GET - Homepage (Stress),200,OK,true,1703,59,220,124
+1773010130535,115,POST - Login (Stress),405,Method Not Allowed,false,480,59,220,115
+1773010130660,77,POST - Login (Stress),405,Method Not Allowed,false,480,60,221,77
+1773010130749,60,POST - Login (Stress),405,Method Not Allowed,false,480,60,222,60
+1773010120670,10181,GET - Homepage (Stress),200,OK,true,1703,60,222,10181
+1773010130914,135,GET - Inventory (Stress),404,Not Found,false,3953,61,224,135
+1773010131043,56,POST - Login (Stress),405,Method Not Allowed,false,480,60,223,55
+1773010131109,44,POST - Login (Stress),405,Method Not Allowed,false,480,60,223,44
+1773010131026,182,POST - Login (Stress),405,Method Not Allowed,false,480,61,224,182
+1773010121112,10193,GET - Homepage (Stress),Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,false,3251,61,224,0
+1773010130995,324,GET - Inventory (Stress),404,Not Found,false,3953,61,224,145
+1773010131271,229,GET - Inventory (Stress),404,Not Found,false,3953,61,224,229
+1773010131461,53,POST - Login (Stress),405,Method Not Allowed,false,480,60,224,52
+1773010121187,10357,GET - Inventory (Stress),404,Not Found,false,3953,60,223,10357
+1773010131506,72,POST - Login (Stress),405,Method Not Allowed,false,480,59,223,71
+1773010130192,1421,GET - Inventory (Stress),404,Not Found,false,3953,59,224,1421
+1773010131272,377,GET - Inventory (Stress),404,Not Found,false,3953,58,223,377
+1773010131437,214,GET - Inventory (Stress),404,Not Found,false,3953,57,222,213
+1773010131395,313,GET - Inventory (Stress),404,Not Found,false,3953,57,222,258
+1773010130606,1163,GET - Inventory (Stress),404,Not Found,false,3953,56,222,135
+1773010121494,10275,GET - Inventory (Stress),404,Not Found,false,3953,56,222,10275
+1773010131716,227,GET - Homepage (Stress),200,OK,true,1703,55,221,227
+1773010131001,1067,GET - Homepage (Stress),200,OK,true,1702,55,221,1067
+1773010131987,191,POST - Login (Stress),405,Method Not Allowed,false,480,56,222,191
+1773010132057,214,GET - Inventory (Stress),404,Not Found,false,3953,56,223,212
+1773010131963,377,GET - Inventory (Stress),404,Not Found,false,3953,55,222,154
+1773010132086,465,GET - Homepage (Stress),200,OK,true,1703,55,223,465
+1773010131614,1035,GET - Homepage (Stress),200,OK,true,1703,56,224,1035
+1773010132760,57,POST - Login (Stress),405,Method Not Allowed,false,480,56,226,57
+1773010132897,178,POST - Login (Stress),405,Method Not Allowed,false,480,57,228,121
+1773010132966,200,GET - Homepage (Stress),200,OK,true,1703,58,230,200
+1773010132528,638,GET - Homepage (Stress),200,OK,true,1703,58,230,638
+1773010133039,141,GET - Inventory (Stress),404,Not Found,false,3953,58,230,139
+1773010133211,62,POST - Login (Stress),405,Method Not Allowed,false,480,57,229,62
+1773010133371,103,POST - Login (Stress),405,Method Not Allowed,false,480,58,231,56
+1773010122814,10725,POST - Login (Stress),405,Method Not Allowed,false,480,58,231,10725
+1773010121198,12513,GET - Homepage (Stress),200,OK,true,1703,59,232,12513
+1773010133554,225,GET - Homepage (Stress),200,OK,true,1703,59,232,225
+1773010113721,20173,GET - Homepage (Stress),200,OK,true,1702,60,233,20173
+1773010123790,10139,GET - Inventory (Stress),404,Not Found,false,3953,60,234,10138
+1773010133820,126,POST - Login (Stress),405,Method Not Allowed,false,480,59,233,125
+1773010133726,310,GET - Inventory (Stress),404,Not Found,false,3953,59,235,310
+1773010133907,168,GET - Homepage (Stress),200,OK,true,1702,58,234,168
+1773010134147,150,POST - Login (Stress),405,Method Not Allowed,false,480,59,236,150
+1773010132172,2203,GET - Inventory (Stress),404,Not Found,false,3953,60,237,1495
+1773010134298,209,GET - Inventory (Stress),404,Not Found,false,3953,59,236,207
+1773010134288,241,GET - Homepage (Stress),200,OK,true,1703,58,235,241
+1773010134567,54,POST - Login (Stress),405,Method Not Allowed,false,480,59,237,53
+1773010134354,619,GET - Inventory (Stress),404,Not Found,false,3953,60,238,240
+1773010134848,125,POST - Login (Stress),405,Method Not Allowed,false,480,60,238,124
+1773010134918,55,POST - Login (Stress),405,Method Not Allowed,false,480,59,237,55
+1773010134697,311,GET - Inventory (Stress),404,Not Found,false,3953,59,237,275
+1773010133693,1331,GET - Homepage (Stress),200,OK,true,1703,58,236,1331
+1773010134862,195,GET - Homepage (Stress),200,OK,true,1703,59,237,195
+1773010134664,465,POST - Login (Stress),405,Method Not Allowed,false,480,59,238,105
+1773010135197,174,GET - Inventory (Stress),404,Not Found,false,3953,60,241,174
+1773010135302,189,GET - Homepage (Stress),200,OK,true,1702,59,240,189
+1773010135412,448,POST - Login (Stress),405,Method Not Allowed,false,480,61,244,447
+1773010135882,61,POST - Login (Stress),405,Method Not Allowed,false,480,61,244,60
+1773010135771,184,GET - Homepage (Stress),200,OK,true,1702,61,244,184
+1773010135834,134,POST - Login (Stress),405,Method Not Allowed,false,480,61,244,134
+1773010134692,1407,GET - Homepage (Stress),200,OK,true,1703,62,245,1407
+1773010125487,10652,GET - Homepage (Stress),200,OK,true,1703,62,245,10652
+1773010136299,69,POST - Login (Stress),405,Method Not Allowed,false,480,63,247,69
+1773010126222,10163,GET - Inventory (Stress),404,Not Found,false,3953,63,247,10159
+1773010136653,45,POST - Login (Stress),405,Method Not Allowed,false,480,63,249,43
+1773010136745,103,POST - Login (Stress),405,Method Not Allowed,false,480,64,250,49
+1773010135848,1129,GET - Inventory (Stress),404,Not Found,false,3953,65,251,1083
+1773010135757,1231,GET - Inventory (Stress),404,Not Found,false,3953,64,250,1231
+1773010135385,1665,GET - Homepage (Stress),200,OK,true,1703,63,250,1665
+1773010135874,1177,GET - Inventory (Stress),404,Not Found,false,3953,63,250,1176
+1773010136948,103,POST - Login (Stress),405,Method Not Allowed,false,480,63,250,103
+1773010116936,20200,GET - Homepage (Stress),Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,false,3251,62,247,0
+1773010125931,11207,GET - Inventory (Stress),404,Not Found,false,3953,62,247,11207
+1773010127047,10163,GET - Homepage (Stress),200,OK,true,1703,62,248,10163
+1773010137132,168,GET - Homepage (Stress),200,OK,true,1703,62,248,168
+1773010116320,21207,GET - Inventory (Stress),404,Not Found,false,3953,63,250,20166
+1773010136431,1161,GET - Homepage (Stress),200,OK,true,1703,62,249,1161
+1773010126317,11531,GET - Homepage (Stress),200,OK,true,1702,63,252,11531
+1773010137803,49,POST - Login (Stress),405,Method Not Allowed,false,480,63,252,49
+1773010136788,1179,GET - Homepage (Stress),200,OK,true,1703,64,253,1179
+1773010138000,36,POST - Login (Stress),405,Method Not Allowed,false,480,64,253,36
+1773010136741,1323,GET - Inventory (Stress),404,Not Found,false,3953,64,253,1160
+1773010138011,64,POST - Login (Stress),405,Method Not Allowed,false,480,63,252,63
+1773010137975,203,GET - Homepage (Stress),200,OK,true,1703,64,253,202
+1773010138322,75,POST - Login (Stress),405,Method Not Allowed,false,480,64,254,75
+1773010117962,20606,GET - Homepage (Stress),200,OK,true,1703,65,255,20606
+1773010136968,1616,GET - Homepage (Stress),200,OK,true,1703,65,255,1616
+1773010138570,50,POST - Login (Stress),405,Method Not Allowed,false,480,65,255,50
+1773010128445,10256,GET - Inventory (Stress),Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,false,3251,66,256,0
+1773010138038,730,GET - Homepage (Stress),200,OK,true,1703,65,257,730
+1773010138743,52,POST - Login (Stress),405,Method Not Allowed,false,480,65,257,52
+1773010098790,40006,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,65,257,0
+1773010138687,171,GET - Inventory (Stress),404,Not Found,false,3953,65,258,169
+1773010138805,101,POST - Login (Stress),405,Method Not Allowed,false,480,65,258,101
+1773010137712,1419,GET - Homepage (Stress),200,OK,true,1702,66,260,1419
+1773010128989,10149,GET - Inventory (Stress),404,Not Found,false,3953,66,260,10149
+1773010138839,536,GET - Inventory (Stress),404,Not Found,false,3953,66,260,173
+1773010139299,76,POST - Login (Stress),405,Method Not Allowed,false,480,66,260,76
+1773010125405,14222,GET - Homepage (Stress),Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,false,3251,66,262,0
+1773010139579,56,POST - Login (Stress),405,Method Not Allowed,false,480,66,262,55
+1773010125460,14230,GET - Inventory (Stress),Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,false,3251,66,262,0
+1773010139591,138,GET - Homepage (Stress),200,OK,true,1702,65,261,138
+1773010139683,54,POST - Login (Stress),405,Method Not Allowed,false,480,65,261,54
+1773010138588,1169,GET - Homepage (Stress),200,OK,true,1703,65,261,1169
+1773010128634,11186,GET - Homepage (Stress),200,OK,true,1703,65,261,11186
+1773010136683,3215,GET - Inventory (Stress),404,Not Found,false,3953,66,262,3215
+1773010139877,112,POST - Login (Stress),405,Method Not Allowed,false,480,65,262,60
+1773010122359,18222,GET - Homepage (Stress),Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,false,3251,68,268,0
+1773010140431,164,GET - Homepage (Stress),200,OK,true,1703,68,268,164
+1773010140571,48,POST - Login (Stress),405,Method Not Allowed,false,480,68,269,40
+1773010140467,190,GET - Inventory (Stress),404,Not Found,false,3953,68,269,190
+1773010140729,45,POST - Login (Stress),405,Method Not Allowed,false,480,67,268,45
+1773010140720,58,POST - Login (Stress),405,Method Not Allowed,false,480,67,268,58
+1773010136636,4261,GET - Homepage (Stress),200,OK,true,1703,68,268,4261
+1773010129541,11369,GET - Inventory (Stress),404,Not Found,false,3953,68,268,11170
+1773010106487,34482,GET - Inventory (Stress),404,Not Found,false,3953,67,267,34482
+1773010131033,10256,GET - Homepage (Stress),Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,false,3251,68,270,0
+1773010128315,13182,GET - Homepage (Stress),200,OK,true,1703,68,271,13182
+1773010141482,55,POST - Login (Stress),405,Method Not Allowed,false,480,69,272,54
+1773010138400,3210,GET - Homepage (Stress),200,OK,true,1703,69,272,3210
+1773010137440,4248,GET - Inventory (Stress),404,Not Found,false,3953,69,272,4232
+1773010140550,1167,GET - Inventory (Stress),404,Not Found,false,3953,68,271,1166
+1773010131589,10180,GET - Inventory (Stress),404,Not Found,false,3953,68,271,10180
+1773010141765,109,POST - Login (Stress),405,Method Not Allowed,false,480,67,271,68
+1773010130333,11621,GET - Homepage (Stress),200,OK,true,1703,67,271,11621
+1773010130418,11697,GET - Inventory (Stress),404,Not Found,false,3953,68,273,11697
+1773010142322,46,POST - Login (Stress),405,Method Not Allowed,false,480,68,274,45
+1773010141208,1186,GET - Homepage (Stress),200,OK,true,1703,68,274,1186
+1773010132275,10134,GET - Homepage (Stress),200,OK,true,1703,68,275,10134
+1773010141253,1157,GET - Inventory (Stress),404,Not Found,false,3953,68,275,1157
+1773010142304,157,GET - Homepage (Stress),200,OK,true,1703,67,274,157
+1773010142586,48,POST - Login (Stress),405,Method Not Allowed,false,480,68,276,48
+1773010128456,14193,GET - Inventory (Stress),404,Not Found,false,3953,68,276,14193
+1773010112427,30223,GET - Inventory (Stress),404,Not Found,false,3953,67,275,30222
+1773010142639,29,POST - Login (Stress),405,Method Not Allowed,false,480,66,274,29
+1773010141209,1586,POST - Login (Stress),405,Method Not Allowed,false,480,67,276,1586
+1773010143092,63,POST - Login (Stress),405,Method Not Allowed,false,480,68,278,62
+1773010143174,92,POST - Login (Stress),405,Method Not Allowed,false,480,69,279,92
+1773010143174,92,POST - Login (Stress),405,Method Not Allowed,false,480,69,279,92
+1773010142139,1200,GET - Inventory (Stress),404,Not Found,false,3953,69,279,1200
+1773010140130,3209,POST - Login (Stress),405,Method Not Allowed,false,480,69,279,3209
+1773010143216,206,GET - Homepage (Stress),200,OK,true,1703,68,278,206
+1773010143217,450,GET - Homepage (Stress),200,OK,true,1703,69,281,450
+1773010143980,57,POST - Login (Stress),405,Method Not Allowed,false,480,71,284,57
+1773010144033,182,GET - Homepage (Stress),200,OK,true,1703,72,285,182
+1773010144124,195,GET - Inventory (Stress),404,Not Found,false,3953,72,285,194
+1773010144117,212,GET - Inventory (Stress),404,Not Found,false,3953,71,284,211
+1773010144378,151,POST - Login (Stress),405,Method Not Allowed,false,480,71,285,150
+1773010144869,71,POST - Login (Stress),405,Method Not Allowed,false,480,73,288,70
+1773010104969,40006,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,73,289,0
+1773010141860,3175,POST - Login (Stress),405,Method Not Allowed,false,480,72,288,3175
+1773010131923,13165,GET - Homepage (Stress),200,OK,true,1703,72,288,13165
+1773010125046,20131,GET - Inventory (Stress),404,Not Found,false,3953,73,290,20130
+1773010143106,2198,GET - Inventory (Stress),404,Not Found,false,3953,72,289,1284
+1773010131927,13442,GET - Inventory (Stress),404,Not Found,false,3953,72,289,13442
+1773010133903,11486,GET - Inventory (Stress),404,Not Found,false,3953,71,288,11486
+1773010144874,654,GET - Homepage (Stress),200,OK,true,1703,70,288,654
+1773010144788,1180,GET - Homepage (Stress),200,OK,true,1703,72,292,1180
+1773010138920,7130,GET - Homepage (Stress),Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,false,3251,72,293,0
+1773010125918,20135,GET - Homepage (Stress),200,OK,true,1703,72,293,20135
+1773010146037,107,POST - Login (Stress),405,Method Not Allowed,false,480,73,294,107
+1773010146099,109,POST - Login (Stress),405,Method Not Allowed,false,480,73,295,69
+1773010145089,1246,GET - Homepage (Stress),200,OK,true,1703,74,296,1246
+1773010135990,10378,GET - Homepage (Stress),200,OK,true,1703,74,296,10378
+1773010145889,627,GET - Inventory (Stress),404,Not Found,false,3953,74,296,626
+1773010146174,345,GET - Homepage (Stress),200,OK,true,1703,73,295,345
+1773010146660,191,GET - Homepage (Stress),200,OK,true,1703,75,299,191
+1773010146785,66,POST - Login (Stress),405,Method Not Allowed,false,480,75,299,66
+1773010146768,84,POST - Login (Stress),405,Method Not Allowed,false,480,75,299,84
+1773010145844,1164,GET - Homepage (Stress),200,OK,true,1703,75,299,1164
+1773010147088,42,POST - Login (Stress),405,Method Not Allowed,false,480,76,301,41
+1773010146687,600,POST - Login (Stress),405,Method Not Allowed,false,480,77,302,600
+1773010147385,64,POST - Login (Stress),405,Method Not Allowed,false,480,77,303,63
+1773010147482,52,POST - Login (Stress),405,Method Not Allowed,false,480,78,304,51
+1773010137595,10134,GET - Inventory (Stress),404,Not Found,false,3953,78,305,10134
+1773010147546,190,GET - Inventory (Stress),404,Not Found,false,3953,77,304,190
+1773010147728,81,POST - Login (Stress),405,Method Not Allowed,false,480,77,305,80
+1773010147229,590,POST - Login (Stress),405,Method Not Allowed,false,480,77,305,590
+1773010146585,1304,GET - Homepage (Stress),200,OK,true,1703,77,305,1304
+1773010137722,10215,POST - Login (Stress),405,Method Not Allowed,false,480,77,305,10215
+1773010140730,7207,GET - Homepage (Stress),200,OK,true,1703,77,305,7207
+1773010147731,249,GET - Homepage (Stress),200,OK,true,1703,77,305,249
+1773010124647,23494,GET - Homepage (Stress),200,OK,true,1703,78,305,23494
+1773010143694,4721,GET - Homepage (Stress),200,OK,true,1703,79,309,4721
+1773010148640,34,POST - Login (Stress),405,Method Not Allowed,false,480,80,311,34
+1773010148754,54,POST - Login (Stress),405,Method Not Allowed,false,480,81,312,54
+1773010148829,119,POST - Login (Stress),405,Method Not Allowed,false,480,81,312,119
+1773010149001,33,POST - Login (Stress),405,Method Not Allowed,false,480,82,314,33
+1773010149069,63,POST - Login (Stress),405,Method Not Allowed,false,480,82,314,63
+1773010148185,1183,GET - Homepage (Stress),200,OK,true,1703,83,315,1183
+1773010139131,11247,GET - Inventory (Stress),404,Not Found,false,3953,87,323,11238
+1773010147018,3360,GET - Inventory (Stress),404,Not Found,false,3953,87,323,3270
+1773010150006,469,POST - Login (Stress),405,Method Not Allowed,false,480,86,322,469
+1773010123791,27218,GET - Inventory (Stress),404,Not Found,false,3953,88,328,27218
+1773010123794,27216,GET - Homepage (Stress),200,OK,true,1703,87,327,27216
+1773010149855,1233,GET - Inventory (Stress),404,Not Found,false,3953,87,327,1232
+1773010149031,2203,GET - Homepage (Stress),200,OK,true,1703,87,327,2203
+1773010151650,78,POST - Login (Stress),405,Method Not Allowed,false,480,89,330,78
+1773010131741,20159,GET - Inventory (Stress),404,Not Found,false,3953,90,331,20157
+1773010140747,11192,GET - Inventory (Stress),404,Not Found,false,3953,89,331,11184
+1773010151994,53,POST - Login (Stress),405,Method Not Allowed,false,480,88,331,53
+1773010141770,10606,GET - Homepage (Stress),200,OK,true,1703,90,334,10606
+1773010139482,13166,POST - Login (Stress),405,Method Not Allowed,false,480,91,335,13166
+1773010122474,30215,GET - Homepage (Stress),200,OK,true,1703,91,335,30215
+1773010128660,24285,GET - Inventory (Stress),404,Not Found,false,3953,92,336,24285
+1773010141678,11276,GET - Inventory (Stress),404,Not Found,false,3953,91,335,11276
+1773010152914,54,POST - Login (Stress),405,Method Not Allowed,false,480,90,334,53
+1773010145444,7592,GET - Inventory (Stress),404,Not Found,false,3953,90,334,7285
+1773010150674,2679,GET - Homepage (Stress),200,OK,true,1703,91,338,2679
+1773010140344,13225,GET - Homepage (Stress),200,OK,true,1703,92,340,13225
+1773010153379,215,POST - Login (Stress),405,Method Not Allowed,false,480,92,340,157
+1773010153434,160,GET - Homepage (Stress),200,OK,true,1703,92,340,160
+1773010152419,1577,GET - Inventory (Stress),404,Not Found,false,3953,93,343,1537
+1773010154001,56,POST - Login (Stress),405,Method Not Allowed,false,480,93,343,56
+1773010154169,96,POST - Login (Stress),405,Method Not Allowed,false,480,94,343,95
+1773010154513,57,POST - Login (Stress),405,Method Not Allowed,false,480,95,346,56
+1773010154266,782,GET - Homepage (Stress),200,OK,true,1703,97,350,782
+1773010148133,7154,GET - Inventory (Stress),404,Not Found,false,3953,98,351,7154
+1773010148116,7196,GET - Inventory (Stress),404,Not Found,false,3953,97,350,7196
+1773010148093,7383,GET - Inventory (Stress),404,Not Found,false,3953,97,349,7316
+1773010148264,7212,GET - Inventory (Stress),404,Not Found,false,3953,97,349,7210
+1773010144318,11170,GET - Homepage (Stress),200,OK,true,1703,95,347,11170
+1773010155824,65,POST - Login (Stress),405,Method Not Allowed,false,480,96,351,65
+1773010153301,2735,GET - Homepage (Stress),200,OK,true,1703,97,352,2735
+1773010155089,1211,GET - Homepage (Stress),200,OK,true,1703,98,354,1211
+1773010156290,40,POST - Login (Stress),405,Method Not Allowed,false,480,98,354,40
+1773010156217,163,GET - Homepage (Stress),200,OK,true,1703,98,355,163
+1773010156619,81,POST - Login (Stress),405,Method Not Allowed,false,480,100,357,80
+1773010146835,10158,GET - Homepage (Stress),200,OK,true,1703,101,360,10158
+1773010156966,44,POST - Login (Stress),405,Method Not Allowed,false,480,101,360,44
+1773010157089,41,POST - Login (Stress),405,Method Not Allowed,false,480,102,361,41
+1773010136832,20355,GET - Inventory (Stress),404,Not Found,false,3953,102,362,20162
+1773010139987,17278,GET - Inventory (Stress),404,Not Found,false,3953,101,361,17278
+1773010157610,57,POST - Login (Stress),405,Method Not Allowed,false,480,102,363,56
+1773010134807,23202,GET - Homepage (Stress),200,OK,true,1703,103,366,23202
+1773010157808,546,GET - Inventory (Stress),404,Not Found,false,3953,105,369,491
+1773010158705,118,POST - Login (Stress),405,Method Not Allowed,false,480,106,371,117
+1773010135572,23366,GET - Inventory (Stress),404,Not Found,false,3953,106,371,23171
+1773010150822,8264,GET - Homepage (Stress),Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,false,3251,106,371,0
+1773010139425,20209,GET - Homepage (Stress),200,OK,true,1703,108,376,20209
+1773010148477,11182,GET - Inventory (Stress),404,Not Found,false,3953,108,376,11171
+1773010120010,40005,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,109,378,0
+1773010157631,2439,GET - Inventory (Stress),404,Not Found,false,3953,109,378,2380
+1773010160399,77,POST - Login (Stress),405,Method Not Allowed,false,480,109,380,76
+1773010159379,1189,GET - Inventory (Stress),404,Not Found,false,3953,110,382,1189
+1773010147426,13584,GET - Inventory (Stress),404,Not Found,false,3953,111,384,13192
+1773010157305,3731,GET - Homepage (Stress),200,OK,true,1703,110,383,3731
+1773010145594,15596,GET - Homepage (Stress),200,OK,true,1703,110,384,15596
+1773010149479,11783,GET - Homepage (Stress),200,OK,true,1703,111,385,11783
+1773010160203,1167,GET - Homepage (Stress),200,OK,true,1703,111,384,1167
+1773010151176,10323,GET - Homepage (Stress),200,OK,true,1703,112,385,10323
+1773010128207,33402,GET - Inventory (Stress),404,Not Found,false,3953,112,385,33402
+1773010144373,17333,GET - Homepage (Stress),200,OK,true,1703,112,385,17333
+1773010161736,98,POST - Login (Stress),405,Method Not Allowed,false,480,112,386,34
+1773010161299,611,GET - Inventory (Stress),404,Not Found,false,3953,112,386,611
+1773010161883,105,POST - Login (Stress),405,Method Not Allowed,false,480,112,387,105
+1773010162141,66,POST - Login (Stress),405,Method Not Allowed,false,480,113,389,66
+1773010162160,59,POST - Login (Stress),405,Method Not Allowed,false,480,113,389,49
+1773010142158,20173,GET - Homepage (Stress),200,OK,true,1703,113,389,20173
+1773010159163,3167,GET - Homepage (Stress),200,OK,true,1703,113,389,3167
+1773010162203,138,GET - Homepage (Stress),200,OK,true,1703,113,389,138
+1773010139238,23154,GET - Inventory (Stress),404,Not Found,false,3953,113,389,23154
+1773010149237,13269,GET - Inventory (Stress),404,Not Found,false,3953,113,389,13221
+1773010122505,40004,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,112,388,0
+1773010162355,425,POST - Login (Stress),405,Method Not Allowed,false,480,113,390,425
+1773010162956,52,POST - Login (Stress),405,Method Not Allowed,false,480,114,393,52
+1773010162032,1058,POST - Login (Stress),405,Method Not Allowed,false,480,114,393,1058
+1773010163100,109,POST - Login (Stress),405,Method Not Allowed,false,480,115,394,108
+1773010155172,8199,GET - Inventory (Stress),Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,false,3251,116,395,0
+1773010163210,179,GET - Homepage (Stress),200,OK,true,1703,115,394,179
+1773010132338,31156,GET - Inventory (Stress),404,Not Found,false,3953,115,395,31154
+1773010162244,1253,GET - Homepage (Stress),200,OK,true,1703,114,393,1253
+1773010163309,553,GET - Homepage (Stress),200,OK,true,1703,116,395,553
+1773010162989,877,POST - Login (Stress),405,Method Not Allowed,false,480,116,395,877
+1773010153730,10174,GET - Inventory (Stress),404,Not Found,false,3953,116,395,10173
+1773010143775,20167,GET - Inventory (Stress),404,Not Found,false,3954,115,394,20163
+1773010124073,40005,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,115,394,0
+1773010164222,52,POST - Login (Stress),405,Method Not Allowed,false,480,114,393,51
+1773010153855,10554,GET - Homepage (Stress),200,OK,true,1703,115,395,10554
+1773010160766,3670,POST - Login (Stress),405,Method Not Allowed,false,480,115,395,3669
+1773010164431,68,POST - Login (Stress),405,Method Not Allowed,false,480,115,395,68
+1773010153318,11230,GET - Inventory (Stress),404,Not Found,false,3953,115,395,11229
+1773010164740,92,POST - Login (Stress),405,Method Not Allowed,false,480,116,397,55
+1773010163614,1234,GET - Inventory (Stress),404,Not Found,false,3954,116,397,1181
+1773010152796,12252,GET - Homepage (Stress),200,OK,true,1703,116,397,12252
+1773010164564,533,GET - Inventory (Stress),404,Not Found,false,3953,116,397,243
+1773010165078,155,POST - Login (Stress),405,Method Not Allowed,false,480,115,398,107
+1773010154421,11265,GET - Inventory (Stress),404,Not Found,false,3954,117,400,11265
+1773010148490,17207,GET - Inventory (Stress),404,Not Found,false,3953,116,399,17207
+1773010145522,20176,GET - Homepage (Stress),200,OK,true,1703,116,399,20176
+1773010165773,97,POST - Login (Stress),405,Method Not Allowed,false,480,116,400,40
+1773010164649,1238,GET - Homepage (Stress),200,OK,true,1703,116,400,1238
+1773010145482,20566,GET - Inventory (Stress),404,Not Found,false,3954,117,402,20266
+1773010155501,10609,GET - Homepage (Stress),200,OK,true,1703,116,401,10609
+1773010163569,2694,GET - Inventory (Stress),404,Not Found,false,3954,117,402,2210
+1773010166362,155,GET - Homepage (Stress),200,OK,true,1703,117,403,155
+1773010166530,97,POST - Login (Stress),405,Method Not Allowed,false,480,117,404,51
+1773010166613,85,POST - Login (Stress),405,Method Not Allowed,false,480,117,404,84
+1773010133443,33261,GET - Inventory (Stress),404,Not Found,false,3953,117,404,33185
+1773010148534,18235,GET - Inventory (Stress),Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,false,3251,117,405,0
+1773010153400,13631,GET - Homepage (Stress),200,OK,true,1703,117,405,13631
+1773010167066,466,POST - Login (Stress),405,Method Not Allowed,false,480,119,407,465
+1773010167353,361,POST - Login (Stress),405,Method Not Allowed,false,480,120,410,361
+1773010164395,3382,GET - Homepage (Stress),200,OK,true,1703,120,411,3382
+1773010163417,4362,POST - Login (Stress),405,Method Not Allowed,false,480,120,411,4362
+1773010167891,132,POST - Login (Stress),405,Method Not Allowed,false,480,121,412,132
+1773010167398,732,GET - Homepage (Stress),200,OK,true,1703,121,412,732
+1773010156961,11180,GET - Homepage (Stress),200,OK,true,1703,121,412,11180
+1773010148024,20145,GET - Homepage (Stress),200,OK,true,1703,122,413,20145
+1773010147373,20806,GET - Homepage (Stress),200,OK,true,1703,122,413,20805
+1773010168073,141,GET - Homepage (Stress),200,OK,true,1703,122,414,141
+1773010157088,11189,GET - Homepage (Stress),200,OK,true,1703,122,414,11189
+1773010158119,10168,GET - Homepage (Stress),200,OK,true,1703,122,414,10168
+1773010156516,11784,GET - Homepage (Stress),200,OK,true,1703,122,414,11784
+1773010168730,49,POST - Login (Stress),405,Method Not Allowed,false,480,124,416,48
+1773010168800,96,POST - Login (Stress),405,Method Not Allowed,false,480,125,418,96
+1773010168767,131,POST - Login (Stress),405,Method Not Allowed,false,480,125,418,131
+1773010151803,17177,GET - Homepage (Stress),200,OK,true,1703,125,419,17177
+1773010167843,1233,GET - Homepage (Stress),200,OK,true,1703,125,417,1233
+1773010169046,45,POST - Login (Stress),405,Method Not Allowed,false,480,125,417,44
+1773010169052,62,POST - Login (Stress),405,Method Not Allowed,false,480,125,417,61
+1773010148065,21063,GET - Homepage (Stress),200,OK,true,1703,126,418,21063
+1773010169143,66,POST - Login (Stress),405,Method Not Allowed,false,480,126,419,66
+1773010168483,777,POST - Login (Stress),405,Method Not Allowed,false,480,126,419,777
+1773010169235,56,POST - Login (Stress),405,Method Not Allowed,false,480,126,419,56
+1773010165119,4236,GET - Inventory (Stress),404,Not Found,false,3954,126,419,4236
+1773010169263,106,POST - Login (Stress),405,Method Not Allowed,false,480,126,419,106
+1773010129499,40004,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,126,420,0
+1773010169493,40,POST - Login (Stress),405,Method Not Allowed,false,480,126,420,39
+1773010169686,54,POST - Login (Stress),405,Method Not Allowed,false,480,127,421,53
+1773010169817,34,POST - Login (Stress),405,Method Not Allowed,false,480,128,422,34
+1773010162683,7245,GET - Homepage (Stress),200,OK,true,1703,128,422,7245
+1773010132693,37497,GET - Homepage (Stress),200,OK,true,1703,129,423,37497
+1773010158726,11810,GET - Homepage (Stress),200,OK,true,1703,130,424,11810
+1773010170589,68,POST - Login (Stress),405,Method Not Allowed,false,480,131,426,67
+1773010143546,27148,GET - Inventory (Stress),404,Not Found,false,3953,131,426,27146
+1773010167584,3157,GET - Inventory (Stress),404,Not Found,false,3953,130,424,3155
+1773010169547,1275,GET - Inventory (Stress),404,Not Found,false,3953,130,425,1275
+1773010170783,423,POST - Login (Stress),405,Method Not Allowed,false,480,130,426,44
+1773010171221,75,POST - Login (Stress),405,Method Not Allowed,false,480,131,427,75
+1773010148465,23193,GET - Homepage (Stress),200,OK,true,1703,132,430,23193
+1773010148512,23192,GET - Homepage (Stress),200,OK,true,1703,132,430,23192
+1773010171579,163,GET - Homepage (Stress),200,OK,true,1703,132,430,163
+1773010151445,20309,GET - Inventory (Stress),404,Not Found,false,3953,132,430,20309
+1773010170485,1282,GET - Inventory (Stress),404,Not Found,false,3953,132,430,1228
+1773010168561,3394,GET - Inventory (Stress),404,Not Found,false,3953,131,430,3174
+1773010172212,57,POST - Login (Stress),405,Method Not Allowed,false,480,132,431,57
+1773010172383,76,POST - Login (Stress),405,Method Not Allowed,false,480,132,433,76
+1773010169378,3159,GET - Homepage (Stress),200,OK,true,1703,133,434,3159
+1773010172331,380,POST - Login (Stress),405,Method Not Allowed,false,480,133,435,380
+1773010142385,30627,GET - Homepage (Stress),200,OK,true,1703,135,437,30627
+1773010173270,47,POST - Login (Stress),405,Method Not Allowed,false,480,136,439,44
+1773010165384,7943,GET - Homepage (Stress),200,OK,true,1703,136,439,7943
+1773010170353,3162,GET - Homepage (Stress),200,OK,true,1703,137,440,3162
+1773010163374,10160,GET - Inventory (Stress),404,Not Found,false,3954,137,440,10158
+1773010173457,150,GET - Homepage (Stress),200,OK,true,1703,136,440,150
+1773010172458,1197,GET - Homepage (Stress),200,OK,true,1703,136,440,1197
+1773010173638,40,POST - Login (Stress),405,Method Not Allowed,false,480,137,441,40
+1773010133907,40007,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,137,442,0
+1773010166568,7361,GET - Inventory (Stress),404,Not Found,false,3953,138,443,7361
+1773010150414,23610,GET - Homepage (Stress),200,OK,true,1703,137,443,23610
+1773010174067,75,POST - Login (Stress),405,Method Not Allowed,false,480,137,442,48
+1773010174357,42,POST - Login (Stress),405,Method Not Allowed,false,480,139,445,41
+1773010174440,50,POST - Login (Stress),405,Method Not Allowed,false,480,139,445,50
+1773010174579,55,POST - Login (Stress),405,Method Not Allowed,false,480,139,445,55
+1773010174617,116,POST - Login (Stress),405,Method Not Allowed,false,480,140,446,72
+1773010174581,152,GET - Inventory (Stress),404,Not Found,false,3954,140,446,152
+1773010154638,20135,GET - Inventory (Stress),404,Not Found,false,3953,139,446,20134
+1773010163666,11195,GET - Homepage (Stress),200,OK,true,1703,138,446,11195
+1773010154449,20412,GET - Homepage (Stress),Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,false,3251,138,446,0
+1773010174447,529,POST - Login (Stress),405,Method Not Allowed,false,480,139,448,528
+1773010157903,17209,GET - Homepage (Stress),200,OK,true,1703,139,448,17209
+1773010175547,69,POST - Login (Stress),405,Method Not Allowed,false,480,142,452,69
+1773010176058,49,POST - Login (Stress),405,Method Not Allowed,false,480,144,455,48
+1773010154965,21257,GET - Inventory (Stress),404,Not Found,false,3953,144,455,21244
+1773010174901,1358,GET - Homepage (Stress),200,OK,true,1703,143,454,1358
+1773010175938,478,GET - Inventory (Stress),404,Not Found,false,3954,144,456,411
+1773010174625,2038,GET - Homepage (Stress),200,OK,true,1703,144,457,2038
+1773010175723,1174,POST - Login (Stress),405,Method Not Allowed,false,480,145,457,1174
+1773010162841,14074,GET - Homepage (Stress),200,OK,true,1703,145,457,14074
+1773010165781,11189,GET - Inventory (Stress),404,Not Found,false,3954,145,457,11189
+1773010177037,40,POST - Login (Stress),405,Method Not Allowed,false,480,145,457,39
+1773010137291,40005,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,146,460,0
+1773010137486,40007,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,145,460,0
+1773010176718,1158,GET - Homepage (Stress),200,OK,true,1703,147,463,1158
+1773010177692,198,GET - Inventory (Stress),404,Not Found,false,3953,147,463,195
+1773010177838,102,POST - Login (Stress),405,Method Not Allowed,false,480,146,462,102
+1773010137941,40004,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,146,462,0
+1773010177302,797,POST - Login (Stress),405,Method Not Allowed,false,480,146,463,796
+1773010177689,648,GET - Homepage (Stress),200,OK,true,1703,147,464,648
+1773010168472,10217,GET - Inventory (Stress),Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,false,3251,148,466,0
+1773010178630,60,POST - Login (Stress),405,Method Not Allowed,false,480,147,465,60
+1773010175546,3263,GET - Homepage (Stress),200,OK,true,1703,148,467,3263
+1773010175462,3387,GET - Inventory (Stress),404,Not Found,false,3953,148,467,3387
+1773010176627,2263,GET - Inventory (Stress),404,Not Found,false,3953,147,466,2263
+1773010138924,40005,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,146,465,0
+1773010139166,40006,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,146,466,0
+1773010179331,38,POST - Login (Stress),405,Method Not Allowed,false,480,147,467,37
+1773010139502,40004,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,148,468,0
+1773010179462,114,POST - Login (Stress),405,Method Not Allowed,false,480,147,468,68
+1773010159492,20140,GET - Homepage (Stress),200,OK,true,1703,147,469,20140
+1773010152456,27200,GET - Homepage (Stress),Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,false,3251,147,469,0
+1773010149521,30168,GET - Inventory (Stress),404,Not Found,false,3954,148,470,30167
+1773010149544,30184,GET - Homepage (Stress),200,OK,true,1703,147,469,30184
+1773010178583,1186,GET - Homepage (Stress),200,OK,true,1703,147,470,1186
+1773010139781,40003,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,147,470,0
+1773010139933,40005,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,147,470,0
+1773010169639,10300,GET - Inventory (Stress),404,Not Found,false,3953,147,470,10297
+1773010156502,23485,GET - Inventory (Stress),404,Not Found,false,3954,146,469,22276
+1773010139987,40006,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,145,468,0
+1773010155887,24182,GET - Homepage (Stress),Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,false,3251,145,468,0
+1773010172953,7153,GET - Inventory (Stress),404,Not Found,false,3954,145,468,7153
+1773010180139,68,POST - Login (Stress),405,Method Not Allowed,false,480,145,469,68
+1773010180314,82,POST - Login (Stress),405,Method Not Allowed,false,480,145,470,82
+1773010180597,92,POST - Login (Stress),405,Method Not Allowed,false,480,147,472,51
+1773010140906,40006,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,148,473,0
+1773010149748,31185,GET - Homepage (Stress),200,OK,true,1703,148,473,31185
+1773010149766,31172,GET - Inventory (Stress),404,Not Found,false,3954,148,473,31170
+1773010180765,173,POST - Login (Stress),405,Method Not Allowed,false,480,148,473,173
+1773010141686,40004,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,150,477,0
+1773010181642,49,POST - Login (Stress),405,Method Not Allowed,false,480,150,477,48
+1773010141787,40005,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,149,476,0
+1773010161643,20205,GET - Homepage (Stress),200,OK,true,1703,150,477,20205
+1773010160631,21218,GET - Homepage (Stress),200,OK,true,1703,150,477,21218
+1773010161635,20469,GET - Homepage (Stress),200,OK,true,1703,151,480,20469
+1773010170697,11411,GET - Inventory (Stress),404,Not Found,false,3954,151,480,11203
+1773010170695,11722,GET - Homepage (Stress),200,OK,true,1703,151,481,11722
+1773010182502,53,POST - Login (Stress),405,Method Not Allowed,false,480,151,481,52
+1773010142646,40003,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,152,483,0
+1773010142662,40004,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,151,482,0
+1773010181539,1135,GET - Inventory (Stress),404,Not Found,false,3953,151,482,1134
+1773010182548,160,GET - Inventory (Stress),404,Not Found,false,3954,150,481,160
+1773010182770,41,POST - Login (Stress),405,Method Not Allowed,false,480,150,482,41
+1773010171710,11147,GET - Homepage (Stress),200,OK,true,1703,150,482,11147
+1773010182578,350,GET - Homepage (Stress),200,OK,true,1703,150,482,350
+1773010182974,75,POST - Login (Stress),405,Method Not Allowed,false,480,151,483,75
+1773010143305,40004,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,152,485,0
+1773010143315,40005,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,151,484,0
+1773010183292,54,POST - Login (Stress),405,Method Not Allowed,false,480,150,483,54
+1773010183536,139,GET - Homepage (Stress),200,OK,true,1703,151,486,139
+1773010180498,3178,POST - Login (Stress),405,Method Not Allowed,false,480,151,486,3178
+1773010183721,61,POST - Login (Stress),405,Method Not Allowed,false,480,152,487,60
+1773010183662,133,GET - Inventory (Stress),404,Not Found,false,3954,152,487,133
+1773010183714,103,POST - Login (Stress),405,Method Not Allowed,false,480,151,487,102
+1773010143952,40005,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,151,487,0
+1773010144020,40005,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,152,488,0
+1773010183588,539,GET - Homepage (Stress),200,OK,true,1703,151,487,539
+1773010184289,42,POST - Login (Stress),405,Method Not Allowed,false,480,152,488,40
+1773010184879,61,POST - Login (Stress),405,Method Not Allowed,false,480,154,493,60
+1773010144936,40006,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,154,493,0
+1773010152011,33378,GET - Homepage (Stress),200,OK,true,1703,155,496,33378
+1773010154991,30398,GET - Homepage (Stress),200,OK,true,1703,155,496,30398
+1773010185036,413,GET - Inventory (Stress),404,Not Found,false,3954,156,497,413
+1773010185038,420,GET - Homepage (Stress),200,OK,true,1703,155,496,420
+1773010171110,14350,GET - Homepage (Stress),200,OK,true,1703,155,496,14350
+1773010173969,11800,GET - Inventory (Stress),404,Not Found,false,3953,156,498,11771
+1773010185897,43,POST - Login (Stress),405,Method Not Allowed,false,480,156,498,43
+1773010162789,23189,GET - Inventory (Stress),404,Not Found,false,3954,156,499,23179
+1773010145979,40005,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,155,498,0
+1773010184811,1197,GET - Inventory (Stress),404,Not Found,false,3954,155,498,1197
+1773010185974,83,POST - Login (Stress),405,Method Not Allowed,false,480,154,497,81
+1773010163109,22988,GET - Inventory (Stress),404,Not Found,false,3954,154,497,22988
+1773010186210,38,POST - Login (Stress),405,Method Not Allowed,false,480,154,498,37
+1773010168045,18243,GET - Homepage (Stress),200,OK,true,1703,154,498,18243
+1773010186260,77,POST - Login (Stress),405,Method Not Allowed,false,480,154,498,77
+1773010178693,8082,GET - Inventory (Stress),404,Not Found,false,3953,156,501,7735
+1773010166743,20353,GET - Homepage (Stress),200,OK,true,1703,156,502,20353
+1773010187019,77,POST - Login (Stress),405,Method Not Allowed,false,480,156,502,76
+1773010147121,40005,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,157,503,0
+1773010185849,1609,GET - Homepage (Stress),200,OK,true,1703,157,504,1609
+1773010187612,37,POST - Login (Stress),405,Method Not Allowed,false,480,158,506,37
+1773010186601,1146,POST - Login (Stress),405,Method Not Allowed,false,480,158,506,1146
+1773010154660,33161,GET - Homepage (Stress),200,OK,true,1703,158,506,33161
+1773010155652,32173,GET - Homepage (Stress),200,OK,true,1703,158,506,32173
+1773010187695,313,GET - Inventory (Stress),404,Not Found,false,3954,159,507,313
+1773010188058,152,POST - Login (Stress),405,Method Not Allowed,false,480,159,508,151
+1773010188366,133,POST - Login (Stress),405,Method Not Allowed,false,480,160,510,89
+1773010188591,65,POST - Login (Stress),405,Method Not Allowed,false,480,161,512,64
+1773010148788,40005,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,161,512,0
+1773010178601,10207,GET - Homepage (Stress),200,OK,true,1703,162,513,10207
+1773010168667,20170,GET - Inventory (Stress),404,Not Found,false,3954,162,513,20170
+1773010168668,20184,GET - Homepage (Stress),200,OK,true,1703,161,512,20184
+1773010186081,3169,GET - Homepage (Stress),200,OK,true,1703,162,514,3169
+1773010169133,20143,GET - Homepage (Stress),200,OK,true,1703,162,514,20143
+1773010189108,169,GET - Homepage (Stress),200,OK,true,1703,163,515,169
+1773010179096,10181,GET - Homepage (Stress),200,OK,true,1703,163,515,10181
+1773010162135,27193,GET - Homepage (Stress),200,OK,true,1703,163,515,27193
+1773010188674,663,GET - Homepage (Stress),200,OK,true,1703,163,515,663
+1773010188732,607,GET - Homepage (Stress),200,OK,true,1703,163,515,607
+1773010176145,13281,GET - Inventory (Stress),404,Not Found,false,3954,163,516,13281
+1773010189480,48,POST - Login (Stress),405,Method Not Allowed,false,480,163,516,48
+1773010149821,40004,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,164,518,0
+1773010189751,138,POST - Login (Stress),405,Method Not Allowed,false,480,163,517,67
+1773010189852,61,POST - Login (Stress),405,Method Not Allowed,false,480,163,517,60
+1773010189914,64,POST - Login (Stress),405,Method Not Allowed,false,480,163,517,63
+1773010189968,52,POST - Login (Stress),405,Method Not Allowed,false,480,164,518,52
+1773010169951,20162,GET - Homepage (Stress),200,OK,true,1703,164,518,20162
+1773010176946,13167,GET - Homepage (Stress),200,OK,true,1703,164,518,13167
+1773010169996,20174,GET - Inventory (Stress),404,Not Found,false,3954,164,517,20174
+1773010190143,75,POST - Login (Stress),405,Method Not Allowed,false,480,163,516,75
+1773010190185,35,POST - Login (Stress),405,Method Not Allowed,false,480,163,516,34
+1773010189863,384,POST - Login (Stress),405,Method Not Allowed,false,480,164,517,383
+1773010159097,31241,GET - Homepage (Stress),200,OK,true,1703,164,517,31241
+1773010190315,53,POST - Login (Stress),405,Method Not Allowed,false,480,164,517,53
+1773010176106,14289,GET - Homepage (Stress),200,OK,true,1703,164,517,14289
+1773010189998,420,GET - Homepage (Stress),200,OK,true,1703,164,518,420
+1773010190651,47,POST - Login (Stress),405,Method Not Allowed,false,480,165,520,46
+1773010190727,40,POST - Login (Stress),405,Method Not Allowed,false,480,166,522,40
+1773010190903,45,POST - Login (Stress),405,Method Not Allowed,false,480,166,522,45
+1773010170824,20186,GET - Inventory (Stress),404,Not Found,false,3954,167,524,20186
+1773010183798,7212,GET - Homepage (Stress),200,OK,true,1703,167,524,7212
+1773010190942,69,POST - Login (Stress),405,Method Not Allowed,false,480,167,524,68
+1773010172120,18929,GET - Inventory (Stress),404,Not Found,false,3953,166,523,18929
+1773010179893,11168,POST - Login (Stress),405,Method Not Allowed,false,480,165,521,11167
+1773010189881,1188,GET - Homepage (Stress),200,OK,true,1703,165,521,1188
+1773010151131,40005,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,165,521,0
+1773010151391,40006,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,166,522,0
+1773010190840,587,GET - Inventory (Stress),404,Not Found,false,3954,166,522,529
+1773010179825,11611,GET - Homepage (Stress),200,OK,true,1703,165,521,11611
+1773010191741,73,POST - Login (Stress),405,Method Not Allowed,false,480,167,526,73
+1773010191811,80,POST - Login (Stress),405,Method Not Allowed,false,480,167,526,80
+1773010184708,7184,GET - Inventory (Stress),404,Not Found,false,3953,167,526,7184
+1773010191749,190,GET - Inventory (Stress),404,Not Found,false,3954,167,526,189
+1773010151972,40003,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,166,525,0
+1773010170879,21267,GET - Homepage (Stress),200,OK,true,1703,166,525,21267
+1773010190685,1509,GET - Homepage (Stress),200,OK,true,1703,167,526,1509
+1773010191388,875,POST - Login (Stress),405,Method Not Allowed,false,480,167,527,875
+1773010191691,735,GET - Homepage (Stress),200,OK,true,1703,168,529,735
+1773010152963,39495,GET - Homepage (Stress),200,OK,true,1703,168,529,39495
+1773010184723,7743,GET - Homepage (Stress),200,OK,true,1703,168,529,7743
+1773010160906,31630,GET - Homepage (Stress),200,OK,true,1703,168,529,31630
+1773010192181,437,POST - Login (Stress),405,Method Not Allowed,false,480,168,529,437
+1773010152827,40004,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,169,531,0
+1773010192970,165,POST - Login (Stress),405,Method Not Allowed,false,480,170,533,164
+1773010164714,28421,GET - Homepage (Stress),200,OK,true,1703,170,533,28421
+1773010172765,20370,GET - Homepage (Stress),200,OK,true,1703,170,533,20370
+1773010192990,178,POST - Login (Stress),405,Method Not Allowed,false,480,170,534,144
+1773010192770,450,POST - Login (Stress),405,Method Not Allowed,false,480,170,534,450
+1773010182719,10581,GET - Homepage (Stress),200,OK,true,1703,170,534,10581
+1773010193058,531,POST - Login (Stress),405,Method Not Allowed,false,480,171,536,530
+1773010193385,271,POST - Login (Stress),405,Method Not Allowed,false,480,172,537,271
+1773010182224,11433,GET - Homepage (Stress),200,OK,true,1703,172,537,11433
+1773010193405,255,POST - Login (Stress),405,Method Not Allowed,false,480,172,537,255
+1773010153883,40003,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,173,538,0
+1773010193807,148,POST - Login (Stress),405,Method Not Allowed,false,480,173,538,147
+1773010170205,23751,POST - Login (Stress),405,Method Not Allowed,false,480,173,538,23750
+1773010193455,536,POST - Login (Stress),405,Method Not Allowed,false,480,173,539,535
+1773010193943,49,POST - Login (Stress),405,Method Not Allowed,false,480,173,539,48
+1773010190771,3285,GET - Inventory (Stress),404,Not Found,false,3954,173,540,3277
+1773010194051,67,POST - Login (Stress),405,Method Not Allowed,false,480,173,540,65
+1773010190766,3522,GET - Homepage (Stress),200,OK,true,1703,173,541,3522
+1773010194496,71,POST - Login (Stress),405,Method Not Allowed,false,480,175,543,34
+1773010163957,31211,GET - Homepage (Stress),200,OK,true,1703,177,546,31211
+1773010194946,232,GET - Homepage (Stress),200,OK,true,1703,177,546,232
+1773010194034,1146,GET - Inventory (Stress),404,Not Found,false,3953,177,546,1146
+1773010193109,2117,GET - Inventory (Stress),404,Not Found,false,3954,176,546,2023
+1773010194837,621,POST - Login (Stress),405,Method Not Allowed,false,480,176,545,621
+1773010193820,1867,GET - Homepage (Stress),200,OK,true,1703,177,546,1867
+1773010195802,50,POST - Login (Stress),405,Method Not Allowed,false,480,178,548,50
+1773010195889,55,POST - Login (Stress),405,Method Not Allowed,false,480,178,548,55
+1773010195842,165,GET - Homepage (Stress),200,OK,true,1703,179,549,165
+1773010164831,31179,GET - Homepage (Stress),200,OK,true,1703,179,549,31179
+1773010156005,40006,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,179,549,0
+1773010175929,20168,GET - Homepage (Stress),200,OK,true,1703,179,549,20168
+1773010188879,7297,GET - Inventory (Stress),404,Not Found,false,3953,179,549,7258
+1773010183138,13050,GET - Homepage (Stress),200,OK,true,1703,178,548,13050
+1773010195039,1181,GET - Inventory (Stress),404,Not Found,false,3954,178,548,1181
+1773010168830,27391,GET - Homepage (Stress),200,OK,true,1703,178,548,27391
+1773010196264,64,POST - Login (Stress),405,Method Not Allowed,false,480,178,548,64
+1773010196641,50,POST - Login (Stress),405,Method Not Allowed,false,480,179,551,49
+1773010196920,49,POST - Login (Stress),405,Method Not Allowed,false,480,181,553,49
+1773010196891,95,POST - Login (Stress),405,Method Not Allowed,false,480,181,553,94
+1773010197033,57,POST - Login (Stress),405,Method Not Allowed,false,480,181,554,57
+1773010196784,331,GET - Homepage (Stress),200,OK,true,1703,181,554,331
+1773010157246,40005,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,182,556,0
+1773010157432,40006,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,182,556,0
+1773010176858,20630,GET - Homepage (Stress),200,OK,true,1703,182,556,20630
+1773010157869,40002,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,183,558,0
+1773010194733,3196,GET - Inventory (Stress),404,Not Found,false,3954,183,558,3196
+1773010196865,1072,POST - Login (Stress),405,Method Not Allowed,false,480,182,557,1072
+1773010173852,24245,GET - Homepage (Stress),Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,false,3251,182,558,0
+1773010198075,40,POST - Login (Stress),405,Method Not Allowed,false,480,182,558,39
+1773010193843,4301,GET - Inventory (Stress),404,Not Found,false,3954,182,558,4215
+1773010158307,40006,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,182,558,0
+1773010158358,40007,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,181,557,0
+1773010158398,40005,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,182,558,0
+1773010195280,3167,GET - Inventory (Stress),404,Not Found,false,3954,182,558,3167
+1773010168282,30195,GET - Homepage (Stress),200,OK,true,1703,181,557,30195
+1773010191235,7265,GET - Homepage (Stress),200,OK,true,1703,181,557,7265
+1773010198457,115,POST - Login (Stress),405,Method Not Allowed,false,480,181,557,115
+1773010197799,1172,GET - Inventory (Stress),404,Not Found,false,3954,183,562,1172
+1773010197960,1169,GET - Inventory (Stress),404,Not Found,false,3954,183,561,1169
+1773010199097,82,POST - Login (Stress),405,Method Not Allowed,false,480,182,560,80
+1773010177786,21406,GET - Inventory (Stress),404,Not Found,false,3954,182,560,21190
+1773010178116,21212,GET - Homepage (Stress),200,OK,true,1703,181,559,21212
+1773010199308,62,POST - Login (Stress),405,Method Not Allowed,false,480,182,560,61
+1773010182198,17172,GET - Homepage (Stress),200,OK,true,1703,182,560,17172
+1773010172250,27175,GET - Homepage (Stress),200,OK,true,1703,182,561,27175
+1773010166145,33528,GET - Inventory (Stress),404,Not Found,false,3954,183,562,33228
+1773010192157,7581,GET - Homepage (Stress),200,OK,true,1703,182,561,7581
+1773010199177,619,POST - Login (Stress),405,Method Not Allowed,false,480,182,560,618
+1773010160014,40004,POST - Login (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,183,562,0
+1773010160029,40005,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,183,562,0
+1773010160106,40005,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,184,563,0
+1773010199984,168,GET - Homepage (Stress),200,OK,true,1703,184,563,168
+1773010187008,13173,GET - Inventory (Stress),404,Not Found,false,3954,184,564,13173
+1773010200275,52,POST - Login (Stress),405,Method Not Allowed,false,480,184,564,51
+1773010199883,499,POST - Login (Stress),405,Method Not Allowed,false,480,184,565,499
+1773010200382,54,POST - Login (Stress),405,Method Not Allowed,false,480,184,565,53
+1773010200388,117,POST - Login (Stress),405,Method Not Allowed,false,480,184,565,117
+1773010200887,43,POST - Login (Stress),405,Method Not Allowed,false,480,186,568,43
+1773010160984,40006,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,186,568,0
+1773010200850,172,GET - Homepage (Stress),200,OK,true,1703,186,568,172
+1773010200903,189,GET - Homepage (Stress),200,OK,true,1703,187,569,189
+1773010163892,37200,GET - Homepage (Stress),200,OK,true,1703,187,569,37200
+1773010199999,1140,GET - Inventory (Stress),404,Not Found,false,3954,187,569,1139
+1773010161167,40004,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,186,569,0
+1773010198010,3274,GET - Homepage (Stress),200,OK,true,1703,187,571,3274
+1773010199852,1458,GET - Inventory (Stress),404,Not Found,false,3954,187,571,1284
+1773010201632,40,POST - Login (Stress),405,Method Not Allowed,false,480,187,572,40
+1773010200792,1161,POST - Login (Stress),405,Method Not Allowed,false,480,188,574,1161
+1773010201885,68,POST - Login (Stress),405,Method Not Allowed,false,480,188,574,68
+1773010201984,53,POST - Login (Stress),405,Method Not Allowed,false,480,189,576,53
+1773010200791,1277,GET - Inventory (Stress),404,Not Found,false,3954,189,576,1277
+1773010202047,54,POST - Login (Stress),405,Method Not Allowed,false,480,188,575,54
+1773010201935,575,POST - Login (Stress),405,Method Not Allowed,false,480,190,578,574
+1773010162566,40006,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,190,579,0
+1773010202819,200,GET - Inventory (Stress),404,Not Found,false,3953,191,581,199
+1773010163150,40004,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,190,580,0
+1773010165975,37274,GET - Homepage (Stress),200,OK,true,1703,190,580,37274
+1773010202913,948,GET - Homepage (Stress),200,OK,true,1703,192,585,948
+1773010164115,40004,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,193,586,0
+1773010202927,1260,GET - Inventory (Stress),404,Not Found,false,3954,193,586,1260
+1773010204162,74,POST - Login (Stress),405,Method Not Allowed,false,480,192,586,72
+1773010202832,1546,GET - Inventory (Stress),404,Not Found,false,3954,192,586,1234
+1773010194298,10490,GET - Inventory (Stress),404,Not Found,false,3954,193,587,10152
+1773010204762,54,POST - Login (Stress),405,Method Not Allowed,false,480,192,587,54
+1773010204308,589,GET - Homepage (Stress),200,OK,true,1703,193,588,589
+1773010193840,11178,GET - Homepage (Stress),200,OK,true,1703,193,589,11178
+1773010165153,40005,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,194,590,0
+1773010194845,10330,GET - Inventory (Stress),404,Not Found,false,3954,194,591,10150
+1773010165173,40007,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,193,590,0
+1773010174999,30233,GET - Inventory (Stress),404,Not Found,false,3954,192,587,30233
+1773010165280,40006,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,191,585,0
+1773010194175,11141,GET - Inventory (Stress),404,Not Found,false,3954,190,584,11140
+1773010184147,21170,GET - Inventory (Stress),404,Not Found,false,3954,189,583,21170
+1773010175142,30276,GET - Inventory (Stress),404,Not Found,false,3954,189,584,30276
+1773010184187,21231,GET - Inventory (Stress),404,Not Found,false,3954,189,584,21231
+1773010171281,34248,GET - Inventory (Stress),404,Not Found,false,3954,187,582,34247
+1773010191286,14254,GET - Inventory (Stress),404,Not Found,false,3954,186,581,14254
+1773010204894,675,GET - Inventory (Stress),404,Not Found,false,3954,185,580,524
+1773010187006,18690,GET - Homepage (Stress),200,OK,true,1703,185,580,18690
+1773010197282,8485,GET - Inventory (Stress),404,Not Found,false,3954,185,580,8485
+1773010205745,64,POST - Login (Stress),405,Method Not Allowed,false,480,184,579,64
+1773010166036,40005,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,185,582,0
+1773010171796,34253,GET - Inventory (Stress),Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,false,3251,185,582,0
+1773010205655,417,POST - Login (Stress),405,Method Not Allowed,false,480,184,581,417
+1773010166160,40003,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,185,582,0
+1773010206037,150,GET - Homepage (Stress),200,OK,true,1703,185,582,150
+1773010199043,7215,GET - Inventory (Stress),404,Not Found,false,3954,185,582,7215
+1773010173034,33224,GET - Homepage (Stress),200,OK,true,1703,185,582,33224
+1773010193040,13218,GET - Homepage (Stress),200,OK,true,1703,185,582,13218
+1773010196050,10210,GET - Homepage (Stress),200,OK,true,1703,184,581,10210
+1773010199057,7338,POST - Login (Stress),405,Method Not Allowed,false,480,185,582,7338
+1773010206360,50,POST - Login (Stress),405,Method Not Allowed,false,480,185,582,50
+1773010206807,66,POST - Login (Stress),405,Method Not Allowed,false,480,187,585,66
+1773010206823,68,POST - Login (Stress),405,Method Not Allowed,false,480,187,585,68
+1773010166887,40005,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,187,585,0
+1773010185941,21188,GET - Homepage (Stress),200,OK,true,1703,188,586,21188
+1773010207083,84,POST - Login (Stress),405,Method Not Allowed,false,480,188,586,84
+1773010167220,40006,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,188,587,0
+1773010207043,205,GET - Homepage (Stress),200,OK,true,1703,188,587,205
+1773010174111,33152,GET - Homepage (Stress),200,OK,true,1703,188,587,33152
+1773010207249,48,POST - Login (Stress),405,Method Not Allowed,false,480,189,588,48
+1773010196109,11267,GET - Inventory (Stress),404,Not Found,false,3954,189,589,11267
+1773010175991,31404,GET - Homepage (Stress),200,OK,true,1703,188,587,31403
+1773010167429,40006,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,188,587,0
+1773010170069,37383,GET - Inventory (Stress),404,Not Found,false,3954,187,586,37191
+1773010206881,1147,GET - Inventory (Stress),404,Not Found,false,3954,189,590,1145
+1773010208000,48,POST - Login (Stress),405,Method Not Allowed,false,480,188,589,48
+1773010208003,47,POST - Login (Stress),405,Method Not Allowed,false,480,188,589,47
+1773010186910,21180,GET - Inventory (Stress),404,Not Found,false,3954,188,589,21179
+1773010196909,11181,POST - Login (Stress),405,Method Not Allowed,false,480,188,589,11180
+1773010208024,66,POST - Login (Stress),405,Method Not Allowed,false,480,188,589,66
+1773010207992,162,GET - Homepage (Stress),200,OK,true,1703,187,588,162
+1773010197974,10215,POST - Login (Stress),405,Method Not Allowed,false,480,187,588,10215
+1773010181078,27156,GET - Homepage (Stress),200,OK,true,1703,187,588,27156
+1773010207897,488,POST - Login (Stress),405,Method Not Allowed,false,480,188,590,487
+1773010207925,647,GET - Inventory (Stress),404,Not Found,false,3954,189,593,330
+1773010208028,619,POST - Login (Stress),405,Method Not Allowed,false,480,188,592,619
+1773010168699,40003,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,188,592,0
+1773010208679,76,POST - Login (Stress),405,Method Not Allowed,false,480,188,592,75
+1773010209038,259,POST - Login (Stress),405,Method Not Allowed,false,480,190,596,259
+1773010181777,27520,GET - Homepage (Stress),200,OK,true,1703,190,596,27520
+1773010208867,513,GET - Homepage (Stress),200,OK,true,1703,190,595,513
+1773010207814,1566,GET - Homepage (Stress),200,OK,true,1703,190,595,1566
+1773010169392,40004,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,190,595,0
+1773010169426,40007,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,190,595,0
+1773010169839,40004,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,191,598,0
+1773010210054,45,POST - Login (Stress),405,Method Not Allowed,false,480,191,599,45
+1773010199969,10147,GET - Homepage (Stress),200,OK,true,1703,191,599,10147
+1773010170134,40005,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,191,599,0
+1773010170194,40004,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,191,599,0
+1773010199067,11152,GET - Homepage (Stress),200,OK,true,1703,190,599,11152
+1773010170243,40004,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,190,599,0
+1773010210258,49,POST - Login (Stress),405,Method Not Allowed,false,480,190,599,48
+1773010210269,44,POST - Login (Stress),405,Method Not Allowed,false,480,190,599,44
+1773010170322,40007,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,190,599,0
+1773010170336,40004,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,189,598,0
+1773010207154,3201,GET - Homepage (Stress),200,OK,true,1703,189,598,3201
+1773010199080,11588,POST - Login (Stress),405,Method Not Allowed,false,480,191,600,11588
+1773010210892,48,POST - Login (Stress),405,Method Not Allowed,false,480,192,602,47
+1773010185897,25052,GET - Inventory (Stress),404,Not Found,false,3954,192,602,25052
+1773010200835,10142,GET - Homepage (Stress),Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,false,3251,191,602,0
+1773010210906,168,GET - Inventory (Stress),404,Not Found,false,3954,191,602,168
+1773010210131,1024,GET - Inventory (Stress),404,Not Found,false,3954,191,602,986
+1773010190969,20204,GET - Inventory (Stress),Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,false,3251,190,601,0
+1773010210993,224,GET - Inventory (Stress),404,Not Found,false,3954,189,600,224
+1773010210929,319,POST - Login (Stress),405,Method Not Allowed,false,480,188,599,319
+1773010211313,72,POST - Login (Stress),405,Method Not Allowed,false,480,189,600,72
+1773010181274,30176,GET - Homepage (Stress),Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,false,3251,189,601,0
+1773010188249,23211,GET - Homepage (Stress),200,OK,true,1703,189,601,23211
+1773010181348,30149,GET - Inventory (Stress),404,Not Found,false,3954,189,601,30149
+1773010201087,10640,GET - Homepage (Stress),200,OK,true,1703,189,602,10640
+1773010210959,1167,GET - Homepage (Stress),200,OK,true,1703,191,605,1167
+1773010172283,40005,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,191,606,0
+1773010201129,11171,GET - Inventory (Stress),404,Not Found,false,3954,191,606,11171
+1773010191177,21199,GET - Inventory (Stress),404,Not Found,false,3954,191,607,21199
+1773010210071,2306,POST - Login (Stress),405,Method Not Allowed,false,480,190,606,2230
+1773010192134,20294,GET - Homepage (Stress),200,OK,true,1703,190,606,20294
+1773010212401,46,POST - Login (Stress),405,Method Not Allowed,false,480,190,606,46
+1773010212383,114,POST - Login (Stress),405,Method Not Allowed,false,480,190,606,64
+1773010209198,3314,GET - Homepage (Stress),200,OK,true,1703,190,606,3314
+1773010195112,17442,GET - Homepage (Stress),200,OK,true,1703,190,606,17442
+1773010211204,1565,POST - Login (Stress),405,Method Not Allowed,false,480,191,608,1564
+1773010200933,12113,GET - Inventory (Stress),404,Not Found,false,3954,193,610,12113
+1773010213091,114,POST - Login (Stress),405,Method Not Allowed,false,480,192,610,113
+1773010173203,40006,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,192,611,0
+1773010213032,244,GET - Inventory (Stress),404,Not Found,false,3954,191,610,244
+1773010173312,40005,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,191,610,0
+1773010173315,40003,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,190,609,0
+1773010213286,60,POST - Login (Stress),405,Method Not Allowed,false,480,190,609,60
+1773010213014,435,GET - Inventory (Stress),404,Not Found,false,3954,190,610,435
+1773010213403,52,POST - Login (Stress),405,Method Not Allowed,false,480,189,609,51
+1773010173536,40006,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,190,609,0
+1773010184268,29286,GET - Homepage (Stress),200,OK,true,1703,190,609,29286
+1773010212072,1577,POST - Login (Stress),405,Method Not Allowed,false,480,190,609,1577
+1773010213396,315,POST - Login (Stress),405,Method Not Allowed,false,480,190,609,314
+1773010204007,10168,GET - Homepage (Stress),200,OK,true,1703,192,613,10168
+1773010183215,31194,POST - Login (Stress),405,Method Not Allowed,false,480,193,615,31194
+1773010213149,1298,GET - Inventory (Stress),404,Not Found,false,3954,193,615,1298
+1773010174536,40004,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,193,615,0
+1773010214129,447,POST - Login (Stress),405,Method Not Allowed,false,480,193,616,446
+1773010214514,141,POST - Login (Stress),405,Method Not Allowed,false,480,193,616,140
+1773010214828,59,POST - Login (Stress),405,Method Not Allowed,false,480,194,617,59
+1773010175313,40005,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,196,620,0
+1773010194244,21126,GET - Homepage (Stress),200,OK,true,1703,196,620,21126
+1773010205153,10221,GET - Homepage (Stress),200,OK,true,1703,196,620,10221
+1773010175399,40005,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,196,619,0
+1773010214218,1270,GET - Homepage (Stress),200,OK,true,1703,196,619,1270
+1773010175511,40005,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,196,619,0
+1773010175582,40004,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,195,618,0
+1773010212449,3544,GET - Homepage (Stress),200,OK,true,1703,195,619,3544
+1773010192474,23634,GET - Inventory (Stress),404,Not Found,false,3954,195,619,23191
+1773010216162,62,POST - Login (Stress),405,Method Not Allowed,false,480,194,619,62
+1773010216313,69,POST - Login (Stress),405,Method Not Allowed,false,480,194,618,69
+1773010215354,1164,GET - Inventory (Stress),404,Not Found,false,3954,194,618,1164
+1773010179392,37242,GET - Inventory (Stress),404,Not Found,false,3954,193,617,37242
+1773010209403,7285,GET - Inventory (Stress),404,Not Found,false,3954,192,616,7285
+1773010216571,125,POST - Login (Stress),405,Method Not Allowed,false,480,191,615,124
+1773010216241,465,POST - Login (Stress),405,Method Not Allowed,false,480,191,615,465
+1773010213367,3722,GET - Homepage (Stress),200,OK,true,1703,191,616,3722
+1773010206959,10171,GET - Inventory (Stress),Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,false,3251,191,616,0
+1773010177368,40005,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,190,614,0
+1773010177390,40005,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,190,614,0
+1773010184242,33352,GET - Homepage (Stress),200,OK,true,1703,190,615,33352
+1773010183381,34349,GET - Inventory (Stress),404,Not Found,false,3954,190,613,34348
+1773010210419,7369,GET - Homepage (Stress),200,OK,true,1703,189,612,7369
+1773010197492,20297,GET - Homepage (Stress),200,OK,true,1703,189,612,20297
+1773010194384,23424,GET - Homepage (Stress),200,OK,true,1703,189,612,23424
+1773010194417,23391,GET - Homepage (Stress),200,OK,true,1703,189,612,23391
+1773010180369,37441,POST - Login (Stress),405,Method Not Allowed,false,480,189,612,37441
+1773010218017,60,POST - Login (Stress),405,Method Not Allowed,false,480,189,613,59
+1773010192466,25751,GET - Homepage (Stress),200,OK,true,1703,189,613,25751
+1773010178219,40006,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,189,613,0
+1773010178240,40006,POST - Login (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,189,613,0
+1773010196470,21817,GET - Inventory (Stress),404,Not Found,false,3954,189,613,21817
+1773010187137,31203,GET - Inventory (Stress),404,Not Found,false,3954,188,612,31203
+1773010208156,10184,GET - Homepage (Stress),200,OK,true,1703,188,612,10184
+1773010197236,21183,GET - Homepage (Stress),200,OK,true,1703,187,611,21183
+1773010218389,46,POST - Login (Stress),405,Method Not Allowed,false,480,187,611,45
+1773010218391,58,POST - Login (Stress),405,Method Not Allowed,false,480,187,611,41
+1773010178493,40005,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,187,611,0
+1773010218469,60,POST - Login (Stress),405,Method Not Allowed,false,480,186,610,60
+1773010218477,52,POST - Login (Stress),405,Method Not Allowed,false,480,186,610,52
+1773010185080,33462,GET - Homepage (Stress),200,OK,true,1703,186,610,33462
+1773010218629,45,POST - Login (Stress),405,Method Not Allowed,false,480,186,611,44
+1773010199347,19560,GET - Homepage (Stress),200,OK,true,1703,186,610,19560
+1773010218943,50,POST - Login (Stress),405,Method Not Allowed,false,480,186,610,50
+1773010219063,73,POST - Login (Stress),405,Method Not Allowed,false,480,186,610,72
+1773010219107,61,POST - Login (Stress),405,Method Not Allowed,false,480,186,610,61
+1773010219067,180,GET - Inventory (Stress),404,Not Found,false,3954,186,610,171
+1773010196056,23200,GET - Homepage (Stress),200,OK,true,1703,185,608,23200
+1773010179294,40003,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,185,608,0
+1773010206164,13250,GET - Homepage (Stress),200,OK,true,1703,185,608,13250
+1773010219240,197,POST - Login (Stress),405,Method Not Allowed,false,480,185,608,197
+1773010179462,40006,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,185,608,0
+1773010189215,30302,GET - Inventory (Stress),404,Not Found,false,3954,185,608,30302
+1773010219540,69,POST - Login (Stress),405,Method Not Allowed,false,480,184,607,52
+1773010219814,43,POST - Login (Stress),405,Method Not Allowed,false,480,184,608,42
+1773010216181,3678,GET - Homepage (Stress),200,OK,true,1703,184,608,3678
+1773010220033,41,POST - Login (Stress),405,Method Not Allowed,false,480,184,608,41
+1773010219231,857,GET - Inventory (Stress),404,Not Found,false,3954,184,608,842
+1773010180169,40004,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,183,607,0
+1773010180185,40004,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,183,607,0
+1773010180209,40004,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,182,606,0
+1773010180256,40005,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,182,606,0
+1773010213208,7171,GET - Homepage (Stress),200,OK,true,1703,182,606,7171
+1773010180396,40004,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,182,606,0
+1773010180597,40005,POST - Login (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,181,606,0
+1773010180613,40004,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,181,606,0
+1773010220157,510,GET - Inventory (Stress),404,Not Found,false,3954,181,606,510
+1773010220173,562,POST - Login (Stress),405,Method Not Allowed,false,480,180,605,562
+1773010220831,44,POST - Login (Stress),405,Method Not Allowed,false,480,180,605,43
+1773010180953,40006,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,180,605,0
+1773010221097,83,POST - Login (Stress),405,Method Not Allowed,false,480,179,604,82
+1773010181202,40004,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,179,604,0
+1773010190252,31005,GET - Homepage (Stress),200,OK,true,1703,178,603,31005
+1773010181363,40004,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,178,603,0
+1773010181417,40004,POST - Login (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,178,602,0
+1773010221265,198,GET - Inventory (Stress),404,Not Found,false,3954,178,602,198
+1773010210154,11313,GET - Homepage (Stress),200,OK,true,1703,177,601,11313
+1773010181641,40006,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,177,602,0
+1773010191588,30443,GET - Inventory (Stress),404,Not Found,false,3954,177,601,30382
+1773010194572,27475,GET - Inventory (Stress),404,Not Found,false,3954,176,600,27460
+1773010184581,37515,POST - Login (Stress),405,Method Not Allowed,false,480,175,599,37515
+1773010221996,112,POST - Login (Stress),405,Method Not Allowed,false,480,175,599,53
+1773010222110,58,POST - Login (Stress),405,Method Not Allowed,false,480,175,599,58
+1773010201563,20649,GET - Homepage (Stress),200,OK,true,1703,175,600,20649
+1773010182367,40005,POST - Login (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,175,600,0
+1773010201454,21161,GET - Inventory (Stress),404,Not Found,false,3954,175,599,21161
+1773010215447,7172,GET - Homepage (Stress),200,OK,true,1703,174,598,7172
+1773010219460,3246,GET - Inventory (Stress),404,Not Found,false,3954,174,598,3246
+1773010188558,34262,GET - Inventory (Stress),404,Not Found,false,3954,173,598,34216
+1773010221451,1565,GET - Inventory (Stress),404,Not Found,false,3954,172,596,1546
+1773010222988,60,POST - Login (Stress),405,Method Not Allowed,false,480,171,595,60
+1773010211441,11663,GET - Homepage (Stress),200,OK,true,1703,171,595,11663
+1773010223273,55,POST - Login (Stress),405,Method Not Allowed,false,480,171,595,55
+1773010183449,40004,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,171,596,0
+1773010220308,3227,GET - Inventory (Stress),404,Not Found,false,3954,170,594,3227
+1773010203308,20228,GET - Inventory (Stress),404,Not Found,false,3954,169,593,20228
+1773010193368,30173,GET - Homepage (Stress),200,OK,true,1703,168,591,30173
+1773010183549,40003,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,168,591,0
+1773010200354,23252,GET - Homepage (Stress),200,OK,true,1703,168,591,23252
+1773010223610,46,POST - Login (Stress),405,Method Not Allowed,false,480,168,591,46
+1773010224186,114,POST - Login (Stress),405,Method Not Allowed,false,480,168,592,61
+1773010224268,207,POST - Login (Stress),405,Method Not Allowed,false,480,168,591,207
+1773010214298,10178,GET - Inventory (Stress),404,Not Found,false,3954,168,591,10177
+1773010197306,27208,GET - Homepage (Stress),200,OK,true,1703,167,590,27208
+1773010187255,37379,GET - Homepage (Stress),200,OK,true,1703,167,591,37379
+1773010186322,38365,GET - Homepage (Stress),200,OK,true,1703,167,591,38365
+1773010192353,32415,POST - Login (Stress),405,Method Not Allowed,false,480,167,591,32415
+1773010225141,174,POST - Login (Stress),405,Method Not Allowed,false,480,167,592,174
+1773010224274,1056,POST - Login (Stress),405,Method Not Allowed,false,480,167,592,1056
+1773010211984,13402,GET - Inventory (Stress),404,Not Found,false,3954,167,592,13402
+1773010222054,3403,POST - Login (Stress),405,Method Not Allowed,false,480,166,591,3403
+1773010215136,10321,POST - Login (Stress),405,Method Not Allowed,false,480,166,591,10321
+1773010212096,13361,GET - Homepage (Stress),200,OK,true,1703,166,591,13361
+1773010225387,71,POST - Login (Stress),405,Method Not Allowed,false,480,166,591,71
+1773010211280,14248,GET - Inventory (Stress),404,Not Found,false,3954,166,591,14247
+1773010203310,22345,GET - Homepage (Stress),200,OK,true,1703,165,590,22345
+1773010185656,40006,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,165,590,0
+1773010224063,1931,GET - Inventory (Stress),404,Not Found,false,3954,165,590,1394
+1773010212090,14205,GET - Inventory (Stress),Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,false,3251,164,589,0
+1773010199090,27217,GET - Homepage (Stress),Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,false,3251,163,588,0
+1773010226280,49,POST - Login (Stress),405,Method Not Allowed,false,480,163,588,49
+1773010195246,31168,GET - Homepage (Stress),200,OK,true,1703,163,589,31168
+1773010209245,17172,GET - Inventory (Stress),404,Not Found,false,3954,163,589,17171
+1773010209263,17209,GET - Homepage (Stress),200,OK,true,1703,162,588,17209
+1773010226191,391,POST - Login (Stress),405,Method Not Allowed,false,480,162,587,390
+1773010225614,1043,POST - Login (Stress),405,Method Not Allowed,false,480,162,587,1043
+1773010186660,40003,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,162,587,0
+1773010186680,40005,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,162,587,0
+1773010227076,36,POST - Login (Stress),405,Method Not Allowed,false,480,161,586,35
+1773010227068,45,POST - Login (Stress),405,Method Not Allowed,false,480,161,586,45
+1773010187346,40006,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,161,586,0
+1773010187504,40005,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,161,586,0
+1773010227306,235,GET - Inventory (Stress),404,Not Found,false,3954,161,586,232
+1773010187723,40005,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,160,586,0
+1773010190626,37153,GET - Inventory (Stress),404,Not Found,false,3954,160,585,37152
+1773010194641,33177,GET - Inventory (Stress),404,Not Found,false,3954,159,583,33168
+1773010194616,33206,GET - Inventory (Stress),404,Not Found,false,3954,158,582,33206
+1773010217684,10163,GET - Inventory (Stress),404,Not Found,false,3954,157,581,10163
+1773010197253,30722,GET - Inventory (Stress),404,Not Found,false,3954,156,580,30722
+1773010188419,40007,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,155,580,0
+1773010188646,40003,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,155,580,0
+1773010191519,37179,GET - Inventory (Stress),404,Not Found,false,3954,154,579,37179
+1773010191512,37216,GET - Inventory (Stress),404,Not Found,false,3954,153,578,37216
+1773010201495,27270,GET - Inventory (Stress),404,Not Found,false,3954,152,576,27253
+1773010227487,1325,POST - Login (Stress),405,Method Not Allowed,false,480,151,576,1325
+1773010189283,40005,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,151,576,0
+1773010189329,40005,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,151,575,0
+1773010189335,40006,POST - Login (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,150,574,0
+1773010189612,40004,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,150,574,0
+1773010191482,38184,GET - Inventory (Stress),404,Not Found,false,3954,150,574,38181
+1773010215430,14265,GET - Inventory (Stress),Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,false,3251,149,573,0
+1773010192491,37204,GET - Inventory (Stress),Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,false,3251,149,573,0
+1773010228280,1461,POST - Login (Stress),405,Method Not Allowed,false,480,147,571,1461
+1773010198421,31327,GET - Homepage (Stress),200,OK,true,1703,147,571,31327
+1773010190176,40004,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,147,571,0
+1773010219485,10749,GET - Inventory (Stress),404,Not Found,false,3954,146,570,10747
+1773010190287,40006,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,145,569,0
+1773010215472,14830,GET - Homepage (Stress),200,OK,true,1703,145,569,14830
+1773010230329,64,POST - Login (Stress),405,Method Not Allowed,false,480,145,569,64
+1773010190508,40005,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,145,569,0
+1773010230875,382,POST - Login (Stress),405,Method Not Allowed,false,480,144,570,381
+1773010191616,40007,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,144,569,0
+1773010213524,18190,GET - Inventory (Stress),404,Not Found,false,3954,144,569,18189
+1773010214504,17247,POST - Login (Stress),405,Method Not Allowed,false,480,143,568,17246
+1773010191789,40004,POST - Login (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,143,568,0
+1773010201649,30145,POST - Login (Stress),405,Method Not Allowed,false,480,143,568,30145
+1773010218806,13173,GET - Inventory (Stress),404,Not Found,false,3954,143,569,13173
+1773010214813,17203,GET - Homepage (Stress),200,OK,true,1703,142,568,17203
+1773010208848,23203,GET - Inventory (Stress),404,Not Found,false,3954,142,568,23203
+1773010209547,22646,GET - Homepage (Stress),200,OK,true,1703,141,564,22646
+1773010204796,27515,GET - Homepage (Stress),200,OK,true,1703,141,564,27515
+1773010232561,56,POST - Login (Stress),405,Method Not Allowed,false,480,141,565,56
+1773010192614,40004,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,141,565,0
+1773010202641,30194,GET - Homepage (Stress),200,OK,true,1703,141,563,30194
+1773010210613,22232,GET - Homepage (Stress),200,OK,true,1703,141,563,22232
+1773010220669,12361,GET - Inventory (Stress),404,Not Found,false,3954,141,564,12178
+1773010233015,39,POST - Login (Stress),405,Method Not Allowed,false,480,140,563,38
+1773010232996,64,POST - Login (Stress),405,Method Not Allowed,false,480,140,563,58
+1773010214985,18170,GET - Homepage (Stress),200,OK,true,1703,140,562,18170
+1773010193402,40003,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,140,562,0
+1773010193550,40003,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,139,561,0
+1773010233573,41,POST - Login (Stress),405,Method Not Allowed,false,480,139,562,41
+1773010193637,40007,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,139,562,0
+1773010203569,30169,GET - Homepage (Stress),200,OK,true,1703,138,561,30169
+1773010200678,33230,POST - Login (Stress),405,Method Not Allowed,false,480,138,561,33230
+1773010214587,19425,GET - Inventory (Stress),404,Not Found,false,3954,138,561,19381
+1773010234005,57,POST - Login (Stress),405,Method Not Allowed,false,480,137,559,57
+1773010234282,46,POST - Login (Stress),405,Method Not Allowed,false,480,137,560,45
+1773010233837,532,POST - Login (Stress),405,Method Not Allowed,false,480,137,560,532
+1773010194626,40223,POST - Login (Stress),Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,false,3251,137,560,0
+1773010221481,13396,GET - Inventory (Stress),404,Not Found,false,3954,137,560,13395
+1773010207550,27349,GET - Homepage (Stress),200,OK,true,1703,136,559,27349
+1773010196581,38746,GET - Homepage (Stress),200,OK,true,1703,136,558,38746
+1773010235594,53,POST - Login (Stress),405,Method Not Allowed,false,480,136,559,52
+1773010233532,2155,GET - Inventory (Stress),404,Not Found,false,3954,136,558,2155
+1773010195725,40004,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,135,557,0
+1773010234518,1250,GET - Inventory (Stress),404,Not Found,false,3954,135,557,1248
+1773010224501,11279,GET - Inventory (Stress),404,Not Found,false,3954,134,556,11279
+1773010204683,31173,GET - Homepage (Stress),200,OK,true,1703,133,555,31173
+1773010234509,1605,POST - Login (Stress),405,Method Not Allowed,false,480,133,556,1605
+1773010236207,41,POST - Login (Stress),405,Method Not Allowed,false,480,133,556,40
+1773010205721,30658,POST - Login (Stress),405,Method Not Allowed,false,480,133,556,30657
+1773010196585,40005,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,133,556,0
+1773010236777,55,POST - Login (Stress),405,Method Not Allowed,false,480,132,556,55
+1773010236663,203,POST - Login (Stress),405,Method Not Allowed,false,480,132,556,172
+1773010206706,30185,GET - Inventory (Stress),404,Not Found,false,3954,132,556,30185
+1773010197225,40003,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,131,554,0
+1773010230017,7221,POST - Login (Stress),405,Method Not Allowed,false,480,131,554,7221
+1773010237059,294,GET - Inventory (Stress),404,Not Found,false,3954,131,553,240
+1773010197707,40004,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,130,552,0
+1773010233715,4120,GET - Inventory (Stress),404,Not Found,false,3954,129,552,3213
+1773010198099,40004,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,128,551,0
+1773010198378,40005,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,128,551,0
+1773010198703,40003,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,128,552,0
+1773010238684,173,POST - Login (Stress),405,Method Not Allowed,false,480,127,551,164
+1773010227756,11174,GET - Inventory (Stress),404,Not Found,false,3954,127,551,11174
+1773010211681,27685,POST - Login (Stress),405,Method Not Allowed,false,480,126,549,27684
+1773010190661,48727,GET - Inventory (Stress),404,Not Found,false,3954,126,549,42388
+1773010199549,40007,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,125,547,0
+1773010199758,40003,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,124,547,0
+1773010208733,31085,GET - Inventory (Stress),404,Not Found,false,3954,124,547,30246
+1773010229751,10178,GET - Inventory (Stress),404,Not Found,false,3954,123,546,10178
+1773010219763,20168,GET - Inventory (Stress),404,Not Found,false,3954,122,545,20168
+1773010207723,32217,GET - Inventory (Stress),404,Not Found,false,3954,121,544,32216
+1773010239657,286,GET - Inventory (Stress),404,Not Found,false,3954,120,543,286
+1773010206773,33170,POST - Login (Stress),405,Method Not Allowed,false,480,120,543,33169
+1773010206824,33198,GET - Homepage (Stress),200,OK,true,1703,119,542,33198
+1773010207600,33153,POST - Login (Stress),405,Method Not Allowed,false,480,119,542,33152
+1773010207597,33180,GET - Inventory (Stress),404,Not Found,false,3954,119,542,33180
+1773010200874,40008,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,118,542,0
+1773010240924,126,POST - Login (Stress),405,Method Not Allowed,false,480,117,540,126
+1773010201230,40005,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,117,540,0
+1773010202753,38593,GET - Inventory (Stress),404,Not Found,false,3954,116,539,38554
+1773010238184,3168,POST - Login (Stress),405,Method Not Allowed,false,480,115,538,3168
+1773010201387,40007,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,115,538,0
+1773010210235,31183,GET - Homepage (Stress),200,OK,true,1703,115,539,31183
+1773010227647,14245,GET - Inventory (Stress),404,Not Found,false,3954,115,539,14244
+1773010202188,40005,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,114,539,0
+1773010202208,40003,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,114,539,0
+1773010219047,23182,GET - Inventory (Stress),404,Not Found,false,3954,114,539,23182
+1773010222139,20159,GET - Inventory (Stress),404,Not Found,false,3954,113,537,20159
+1773010242398,26,POST - Login (Stress),405,Method Not Allowed,false,480,112,536,25
+1773010219155,23453,GET - Inventory (Stress),404,Not Found,false,3954,112,536,23294
+1773010202625,40006,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,111,534,0
+1773010202647,40004,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,111,534,0
+1773010203074,40004,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,110,533,0
+1773010211918,31177,GET - Homepage (Stress),200,OK,true,1703,110,532,31177
+1773010235066,8235,GET - Inventory (Stress),404,Not Found,false,3954,110,533,8231
+1773010222167,21189,GET - Inventory (Stress),404,Not Found,false,3954,109,531,21187
+1773010242941,526,POST - Login (Stress),405,Method Not Allowed,false,480,108,530,526
+1773010243639,114,POST - Login (Stress),405,Method Not Allowed,false,480,108,530,77
+1773010213874,30175,GET - Homepage (Stress),200,OK,true,1703,108,531,30175
+1773010220846,23203,POST - Login (Stress),405,Method Not Allowed,false,480,108,531,23203
+1773010227023,17186,POST - Login (Stress),Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,false,3251,108,531,0
+1773010204312,40003,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,108,531,0
+1773010233856,10482,GET - Inventory (Stress),404,Not Found,false,3954,108,531,10481
+1773010223752,21147,GET - Inventory (Stress),404,Not Found,false,3954,107,531,21147
+1773010244614,361,POST - Login (Stress),405,Method Not Allowed,false,480,106,530,360
+1773010213833,31217,GET - Homepage (Stress),200,OK,true,1703,106,531,31217
+1773010207826,37280,GET - Inventory (Stress),404,Not Found,false,3954,106,531,37280
+1773010205330,40004,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,105,530,0
+1773010205596,40006,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,105,530,0
+1773010205825,40004,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,104,529,0
+1773010212825,33123,GET - Homepage (Stress),200,OK,true,1703,104,529,33123
+1773010245900,69,POST - Login (Stress),405,Method Not Allowed,false,480,104,529,69
+1773010222880,23172,GET - Inventory (Stress),404,Not Found,false,3954,104,529,23172
+1773010206336,40004,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,103,528,0
+1773010235776,10679,GET - Inventory (Stress),404,Not Found,false,3954,103,528,10679
+1773010206924,40007,POST - Login (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,102,528,0
+1773010246819,180,POST - Login (Stress),405,Method Not Allowed,false,480,102,528,179
+1773010246643,379,POST - Login (Stress),405,Method Not Allowed,false,480,102,528,379
+1773010216902,30184,GET - Inventory (Stress),404,Not Found,false,3954,102,528,30184
+1773010213899,33189,GET - Inventory (Stress),404,Not Found,false,3954,101,527,33189
+1773010219885,27340,GET - Inventory (Stress),404,Not Found,false,3954,100,526,27203
+1773010207308,40003,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,99,525,0
+1773010226210,21186,GET - Inventory (Stress),404,Not Found,false,3954,98,524,21185
+1773010207634,40004,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,97,524,0
+1773010246955,813,POST - Login (Stress),405,Method Not Allowed,false,480,97,524,812
+1773010230246,17681,POST - Login (Stress),405,Method Not Allowed,false,480,97,524,17681
+1773010217191,31305,GET - Inventory (Stress),404,Not Found,false,3954,97,525,31222
+1773010237306,11200,GET - Inventory (Stress),404,Not Found,false,3954,96,524,11200
+1773010235184,13359,GET - Inventory (Stress),404,Not Found,false,3954,95,523,13212
+1773010208587,40008,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,94,522,0
+1773010245176,3673,GET - Inventory (Stress),404,Not Found,false,3954,94,523,3594
+1773010208879,40006,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,93,522,0
+1773010208946,40004,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,92,521,0
+1773010208972,40006,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,91,520,0
+1773010227972,21246,GET - Inventory (Stress),404,Not Found,false,3954,90,519,21209
+1773010226231,22988,GET - Inventory (Stress),404,Not Found,false,3954,90,519,22952
+1773010209243,40005,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,88,517,0
+1773010218964,30325,POST - Login (Stress),405,Method Not Allowed,false,480,87,516,30325
+1773010228108,21591,POST - Login (Stress),405,Method Not Allowed,false,480,87,516,21591
+1773010209895,40006,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,87,516,0
+1773010212923,37245,POST - Login (Stress),405,Method Not Allowed,false,480,87,515,37245
+1773010210864,40004,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,87,515,0
+1773010210913,40004,POST - Login (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,86,513,0
+1773010217887,33187,POST - Login (Stress),405,Method Not Allowed,false,480,86,513,33185
+1773010211076,40003,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,86,513,0
+1773010238927,12180,POST - Login (Stress),405,Method Not Allowed,false,480,86,513,12148
+1773010220969,30199,POST - Login (Stress),405,Method Not Allowed,false,480,86,513,30199
+1773010212916,38268,GET - Homepage (Stress),200,OK,true,1703,86,513,38268
+1773010231004,20204,GET - Inventory (Stress),404,Not Found,false,3954,86,513,20204
+1773010211419,40006,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,85,511,0
+1773010211906,40004,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,85,512,0
+1773010251859,55,POST - Login (Stress),405,Method Not Allowed,false,480,84,511,54
+1773010221329,31171,POST - Login (Stress),405,Method Not Allowed,false,480,84,512,31171
+1773010246143,7155,POST - Login (Stress),405,Method Not Allowed,false,480,84,511,7154
+1773010243155,10213,POST - Login (Stress),405,Method Not Allowed,false,480,84,510,10212
+1773010213479,40005,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,84,510,0
+1773010223178,30668,GET - Inventory (Stress),404,Not Found,false,3954,84,509,30629
+1773010243949,10181,POST - Login (Stress),405,Method Not Allowed,false,480,83,509,10181
+1773010214306,40003,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,83,508,0
+1773010214372,40007,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,82,507,0
+1773010214387,40006,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,81,506,0
+1773010221042,33630,GET - Inventory (Stress),404,Not Found,false,3954,81,507,33630
+1773010254866,209,GET - Inventory (Stress),404,Not Found,false,3954,80,506,209
+1773010244941,10148,POST - Login (Stress),405,Method Not Allowed,false,480,79,505,10148
+1773010234972,20134,GET - Inventory (Stress),404,Not Found,false,3954,79,505,20134
+1773010238070,17203,GET - Inventory (Stress),404,Not Found,false,3954,78,503,17203
+1773010215430,40003,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,77,502,0
+1773010223070,32468,GET - Inventory (Stress),404,Not Found,false,3954,76,501,32468
+1773010215601,40008,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,75,500,0
+1773010215846,40004,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,74,500,0
+1773010215861,40004,GET - Homepage (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,74,500,0
+1773010215981,40005,POST - Login (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,74,500,0
+1773010225954,30162,GET - Inventory (Stress),404,Not Found,false,3954,74,500,30162
+1773010252863,3315,GET - Inventory (Stress),404,Not Found,false,3954,73,499,3315
+1773010216507,40004,POST - Login (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,72,498,0
+1773010225390,31179,GET - Inventory (Stress),404,Not Found,false,3954,72,498,31179
+1773010253404,3577,GET - Inventory (Stress),404,Not Found,false,3954,71,494,3577
+1773010217514,40005,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,70,494,0
+1773010218322,40005,POST - Login (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,69,495,0
+1773010221124,37296,POST - Login (Stress),405,Method Not Allowed,false,480,69,495,37296
+1773010228355,30238,POST - Login (Stress),405,Method Not Allowed,false,480,69,495,30237
+1773010225234,33500,GET - Inventory (Stress),404,Not Found,false,3954,69,494,33500
+1773010229079,30155,POST - Login (Stress),405,Method Not Allowed,false,480,68,493,30155
+1773010259064,172,GET - Inventory (Stress),404,Not Found,false,3954,68,493,171
+1773010232063,27197,GET - Inventory (Stress),404,Not Found,false,3954,67,492,27196
+1773010259149,242,GET - Inventory (Stress),404,Not Found,false,3954,66,489,242
+1773010236190,23269,GET - Inventory (Stress),404,Not Found,false,3954,65,488,23269
+1773010219504,40005,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,64,487,0
+1773010248271,11254,GET - Inventory (Stress),404,Not Found,false,3954,63,485,11244
+1773010252227,7312,POST - Login (Stress),405,Method Not Allowed,false,480,62,484,7312
+1773010219869,40005,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,62,484,0
+1773010236935,23163,GET - Inventory (Stress),404,Not Found,false,3954,61,484,23163
+1773010220267,40005,POST - Login (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,60,483,0
+1773010226196,34311,GET - Inventory (Stress),404,Not Found,false,3954,60,483,33263
+1773010243584,17274,POST - Login (Stress),405,Method Not Allowed,false,480,59,482,17274
+1773010230486,31150,GET - Inventory (Stress),404,Not Found,false,3954,59,482,31150
+1773010241380,21191,GET - Inventory (Stress),404,Not Found,false,3954,58,481,21191
+1773010222679,40004,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,57,479,0
+1773010251475,11256,GET - Inventory (Stress),404,Not Found,false,3954,56,478,11256
+1773010240161,23472,GET - Inventory (Stress),404,Not Found,false,3954,55,478,23306
+1773010231068,34204,POST - Login (Stress),Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,false,3251,54,478,0
+1773010225314,40005,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,54,478,0
+1773010251972,13357,GET - Inventory (Stress),404,Not Found,false,3954,53,477,13357
+1773010254919,10452,POST - Login (Stress),405,Method Not Allowed,false,480,52,476,10451
+1773010254125,11247,GET - Inventory (Stress),404,Not Found,false,3954,52,476,11247
+1773010242093,23289,GET - Inventory (Stress),404,Not Found,false,3954,51,475,23289
+1773010226093,40006,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,50,475,0
+1773010226339,40005,POST - Login (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,49,474,0
+1773010222190,44216,POST - Login (Stress),Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,false,3251,49,474,0
+1773010266276,373,GET - Inventory (Stress),404,Not Found,false,3954,49,474,373
+1773010256681,10225,POST - Login (Stress),405,Method Not Allowed,false,480,48,473,10225
+1773010227377,40007,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,48,474,0
+1773010267086,1464,GET - Inventory (Stress),404,Not Found,false,3954,47,474,1462
+1773010267397,1577,GET - Inventory (Stress),404,Not Found,false,3954,46,469,1259
+1773010249229,20259,POST - Login (Stress),405,Method Not Allowed,false,480,45,469,20215
+1773010230095,40004,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,45,470,0
+1773010260347,11168,GET - Inventory (Stress),404,Not Found,false,3954,44,468,11168
+1773010254344,17186,GET - Inventory (Stress),404,Not Found,false,3954,43,466,17186
+1773010270332,1534,GET - Inventory (Stress),404,Not Found,false,3954,42,464,1485
+1773010251719,20170,GET - Inventory (Stress),404,Not Found,false,3954,41,463,20168
+1773010244697,27193,GET - Inventory (Stress),404,Not Found,false,3954,40,462,27193
+1773010248708,23185,GET - Inventory (Stress),404,Not Found,false,3954,39,460,23183
+1773010240728,31481,POST - Login (Stress),405,Method Not Allowed,false,480,38,459,31480
+1773010232450,40004,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,38,459,0
+1773010232560,40005,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,37,458,0
+1773010232592,40004,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,36,457,0
+1773010232597,40006,POST - Login (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,35,456,0
+1773010233411,40004,POST - Login (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,35,458,0
+1773010256520,17192,POST - Login (Stress),405,Method Not Allowed,false,480,35,457,17192
+1773010250506,23208,POST - Login (Stress),405,Method Not Allowed,false,480,35,457,23207
+1773010234513,40006,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,35,456,0
+1773010243422,31199,GET - Inventory (Stress),404,Not Found,false,3954,34,455,31199
+1773010274442,181,GET - Inventory (Stress),404,Not Found,false,3954,33,453,181
+1773010261528,13186,GET - Inventory (Stress),404,Not Found,false,3954,32,451,13186
+1773010273401,1964,GET - Inventory (Stress),404,Not Found,false,3954,31,450,1649
+1773010237455,40005,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,30,446,0
+1773010237538,40004,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,29,445,0
+1773010273918,3737,GET - Inventory (Stress),404,Not Found,false,3954,28,443,3692
+1773010247512,30143,GET - Inventory (Stress),404,Not Found,false,3954,28,443,30143
+1773010260826,17234,GET - Inventory (Stress),404,Not Found,false,3954,26,439,17234
+1773010247824,30236,GET - Inventory (Stress),404,Not Found,false,3954,26,439,30236
+1773010251638,27211,GET - Inventory (Stress),404,Not Found,false,3954,24,437,27209
+1773010241678,37199,GET - Inventory (Stress),404,Not Found,false,3954,23,436,37198
+1773010248548,31286,POST - Login (Stress),405,Method Not Allowed,false,480,22,434,31286
+1773010250551,30145,GET - Inventory (Stress),404,Not Found,false,3954,22,430,30143
+1773010240849,40004,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,21,429,0
+1773010250682,30449,GET - Inventory (Stress),404,Not Found,false,3954,20,428,30141
+1773010257369,24198,GET - Inventory (Stress),Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,false,3251,19,427,0
+1773010259463,22237,GET - Inventory (Stress),404,Not Found,false,3954,18,426,22237
+1773010242007,40003,POST - Login (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,17,425,0
+1773010266046,17204,GET - Inventory (Stress),404,Not Found,false,3954,17,423,17204
+1773010244072,40007,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,16,421,0
+1773010244643,40007,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,15,419,0
+1773010245557,40004,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,14,415,0
+1773010274457,11135,GET - Inventory (Stress),404,Not Found,false,3954,13,414,11135
+1773010246536,40004,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,12,411,0
+1773010247761,40006,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,11,409,0
+1773010254152,34430,POST - Login (Stress),405,Method Not Allowed,false,480,10,404,34430
+1773010250012,40005,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,10,400,0
+1773010280563,10153,GET - Inventory (Stress),404,Not Found,false,3954,9,398,10153
+1773010251591,40004,POST - Login (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,8,395,0
+1773010292290,237,GET - Inventory (Stress),404,Not Found,false,3954,8,390,172
+1773010267656,27206,GET - Inventory (Stress),404,Not Found,false,3954,7,385,27206
+1773010256086,40003,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,6,381,0
+1773010256649,40003,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,5,378,0
+1773010259893,40005,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,4,364,0
+1773010273009,27524,GET - Inventory (Stress),404,Not Found,false,3954,3,363,27298
+1773010289522,23167,GET - Inventory (Stress),404,Not Found,false,3954,2,329,23167
+1773010282684,40003,GET - Inventory (Stress),Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Non HTTP response message: Connect to www.saucedemo.com:443 [www.saucedemo.com/185.199.111.153, www.saucedemo.com/185.199.109.153, www.saucedemo.com/185.199.110.153, www.saucedemo.com/185.199.108.153] failed: Connect timed out",false,2775,1,292,0

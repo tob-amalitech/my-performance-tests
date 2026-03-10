@@ -1,0 +1,901 @@
+timeStamp,elapsed,label,responseCode,responseMessage,success,bytes,grpThreads,allThreads,Latency
+1773010097160,8542,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2182,13,76,0
+1773010095562,10291,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,13,78,0
+1773010098762,8082,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2182,15,86,0
+1773010097961,9897,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2182,16,95,0
+1773010099562,9712,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2182,18,103,0
+1773010100362,9037,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,18,103,0
+1773010105854,3853,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,18,104,0
+1773010106845,4915,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,21,121,0
+1773010102763,9004,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2182,21,121,0
+1773010101962,12679,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2182,24,144,0
+1773010101164,13482,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,24,144,0
+1773010111766,3933,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,26,153,0
+1773010109275,8012,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,28,162,0
+1773010114645,3222,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,28,164,0
+1773010114641,3361,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,29,164,0
+1773010107858,11080,TC_02 - Browse Inventory,Non HTTP response code: java.net.SocketException,"Number of samples in transaction : 1, number of failing samples : 1",false,3251,30,162,0
+1773010109707,9901,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2182,31,164,0
+1773010106762,13220,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2182,31,165,0
+1773010096363,23833,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,31,164,0
+1773010105962,15264,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2182,33,170,0
+1773010110762,10553,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2182,33,170,0
+1773010111761,9608,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2182,33,171,0
+1773010113962,7571,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2182,33,172,0
+1773010113162,8887,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2182,34,175,0
+1773010104362,18198,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,34,178,0
+1773010114760,7901,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2182,34,178,0
+1773010120197,2663,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,35,179,0
+1773010103562,19609,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,35,180,0
+1773010119983,3452,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,35,182,0
+1773010109399,14276,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,36,184,0
+1773010121226,2648,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,36,186,0
+1773010121369,3187,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,37,191,0
+1773010121315,3559,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,37,191,0
+1773010122661,2830,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,38,194,0
+1773010107561,18408,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,39,198,0
+1773010122049,3960,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,39,197,0
+1773010118003,8016,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,39,197,0
+1773010105163,21046,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2182,39,199,0
+1773010115562,10696,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,39,198,0
+1773010115699,10559,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,39,198,0
+1773010116362,9969,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,39,198,0
+1773010117867,8951,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,40,202,0
+1773010117960,9226,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,40,202,0
+1773010118938,9112,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2182,41,205,0
+1773010117288,11103,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2182,42,208,0
+1773010105704,22719,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,42,208,0
+1773010125969,2704,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,42,209,0
+1773010126208,2611,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,42,209,0
+1773010126258,2994,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,43,212,0
+1773010120361,9053,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,43,213,0
+1773010109161,20355,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2182,43,213,0
+1773010126818,2913,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,43,213,0
+1773010119561,10369,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,43,214,0
+1773010121163,8936,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,44,216,0
+1773010126258,3966,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,44,216,0
+1773010126331,4171,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,44,219,0
+1773010128050,2639,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,44,220,0
+1773010121964,9019,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2182,45,223,0
+1773010128391,3389,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,46,220,0
+1773010123435,8499,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2182,46,221,0
+1773010123561,8449,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,46,221,0
+1773010122761,9340,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,46,221,0
+1773010124556,7574,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,46,221,0
+1773010122860,9453,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2182,46,222,0
+1773010111562,20776,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,46,222,0
+1773010124361,8233,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,47,223,0
+1773010129414,3285,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,47,224,0
+1773010123874,9816,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2182,48,232,0
+1773010123677,10782,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,49,236,0
+1773010129930,4624,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,49,235,0
+1773010132101,3044,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,50,238,0
+1773010128423,7049,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,50,240,0
+1773010131934,3653,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,51,242,0
+1773010124875,10813,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,51,242,0
+1773010126009,9905,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2182,51,244,0
+1773010125491,10463,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2182,51,244,0
+1773010132594,3454,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,51,245,0
+1773010132130,4066,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,51,245,0
+1773010122559,14009,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,51,249,0
+1773010126019,10592,TC_02 - Browse Inventory,Non HTTP response code: java.net.SocketException,"Number of samples in transaction : 1, number of failing samples : 1",false,3251,51,249,0
+1773010121533,15280,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,51,250,0
+1773010128819,8295,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,51,247,0
+1773010126761,10504,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2182,52,248,0
+1773010117160,20331,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,52,249,0
+1773010108362,29130,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,52,249,0
+1773010129731,8501,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,53,254,0
+1773010128673,10057,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,53,256,0
+1773010129162,9568,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,53,256,0
+1773010129253,9495,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2182,53,256,0
+1773010135472,3280,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,53,256,0
+1773010128363,10687,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,54,259,0
+1773010135688,3443,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,54,260,0
+1773010129962,9260,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,54,259,0
+1773010132699,7121,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,55,261,0
+1773010130689,9360,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,55,263,0
+1773010133690,6569,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,55,265,0
+1773010130503,10064,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,56,268,0
+1773010135955,4613,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,56,268,0
+1773010109962,30664,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2182,56,269,0
+1773010119608,21163,TC_02 - Browse Inventory,Non HTTP response code: java.net.SocketException,"Number of samples in transaction : 1, number of failing samples : 1",false,3251,56,268,0
+1773010131562,9234,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,56,268,0
+1773010130761,10689,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,57,271,0
+1773010131780,9671,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2182,57,271,0
+1773010138731,2917,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,57,272,0
+1773010130225,11680,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,57,271,0
+1773010132011,9997,TC_02 - Browse Inventory,Non HTTP response code: java.net.SocketException,"Number of samples in transaction : 1, number of failing samples : 1",false,3251,58,273,0
+1773010137493,4965,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,58,274,0
+1773010133161,9541,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,58,274,0
+1773010118761,24057,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,59,276,0
+1773010134555,8711,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,59,279,0
+1773010140796,2617,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,59,278,0
+1773010140049,3410,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,59,279,0
+1773010136813,7235,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,59,284,0
+1773010135145,9073,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,59,285,0
+1773010137115,7343,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,60,285,0
+1773010141450,3624,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,60,288,0
+1773010134762,10393,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,60,289,0
+1773010139820,5348,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,61,290,0
+1773010136048,9252,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,61,289,0
+1773010136569,9172,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,61,289,0
+1773010139222,6974,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,62,295,0
+1773010140626,5711,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,62,296,0
+1773010135587,10768,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2182,62,296,0
+1773010135914,10762,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,62,297,0
+1773010141905,4947,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,63,299,0
+1773010138752,8906,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2182,64,305,0
+1773010138762,9546,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,64,306,0
+1773010123170,25401,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,65,311,0
+1773010137162,11689,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,65,312,0
+1773010140569,8457,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,65,314,0
+1773010136363,12766,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,65,314,0
+1773010142458,6896,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,66,315,0
+1773010139131,10340,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,66,316,0
+1773010127562,22046,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,66,318,0
+1773010133962,15946,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,66,320,0
+1773010140259,9670,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,66,321,0
+1773010147658,2630,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,67,324,0
+1773010140567,10444,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,67,327,0
+1773010145741,5332,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,67,327,0
+1773010141649,9628,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,67,327,0
+1773010137491,13945,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,67,329,0
+1773010141162,10354,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,67,329,0
+1773010142818,9289,TC_02 - Browse Inventory,Non HTTP response code: java.net.SocketException,"Number of samples in transaction : 1, number of failing samples : 1",false,3251,68,332,0
+1773010138233,14044,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,68,333,0
+1773010143413,8917,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,67,333,0
+1773010144361,8354,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,68,335,0
+1773010112360,40902,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,69,337,0
+1773010149354,4253,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,69,340,0
+1773010130099,23735,TC_02 - Browse Inventory,Non HTTP response code: java.net.SocketException,"Number of samples in transaction : 1, number of failing samples : 1",false,3251,69,342,0
+1773010145075,8837,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,69,342,0
+1773010149609,4367,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,70,343,0
+1773010145962,8126,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,70,343,0
+1773010144458,9677,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,70,342,0
+1773010138748,15663,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,70,345,0
+1773010145169,9760,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,70,348,0
+1773010146677,8656,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,70,349,0
+1773010148308,7100,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,70,349,0
+1773010149929,5544,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,70,350,0
+1773010135560,20031,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,70,348,0
+1773010146852,8855,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,70,350,0
+1773010146197,9731,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,70,352,0
+1773010146338,9632,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,70,352,0
+1773010148571,8814,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,72,361,0
+1773010146762,10858,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,72,363,0
+1773010141961,15809,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,72,363,0
+1773010142703,15442,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,73,367,0
+1773010155333,3483,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,74,372,0
+1773010153912,5353,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,73,372,0
+1773010139561,19778,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,73,373,0
+1773010140361,19777,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,74,377,0
+1773010151073,9360,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,75,380,0
+1773010157620,2907,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,75,381,0
+1773010145155,15413,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,75,382,0
+1773010151436,9172,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,75,381,0
+1773010150762,10270,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,75,383,0
+1773010145160,15996,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,75,383,0
+1773010134460,27028,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,76,385,0
+1773010141451,20077,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,76,385,0
+1773010151011,10878,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,75,386,0
+1773010153607,8439,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,76,387,0
+1773010153977,8137,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,76,387,0
+1773010152107,10638,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,76,389,0
+1773010154763,8094,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,77,391,0
+1773010149026,14550,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,78,394,0
+1773010151277,12669,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,77,393,0
+1773010149161,14873,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,76,393,0
+1773010157770,6566,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,76,394,0
+1773010136611,28223,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,77,397,0
+1773010152362,13132,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,78,400,0
+1773010132362,33286,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,78,400,0
+1773010132314,33464,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,78,399,0
+1773010148852,16932,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,78,399,0
+1773010155409,10527,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,78,400,0
+1773010158145,8372,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,79,403,0
+1773010155929,10849,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,80,404,0
+1773010156361,11405,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,81,411,0
+1773010162745,5105,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,81,411,0
+1773010153262,14905,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,81,413,0
+1773010125962,42455,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,82,416,0
+1773010159265,9570,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,82,417,0
+1773010160568,8413,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,82,419,0
+1773010155707,13340,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,82,419,0
+1773010129516,39533,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,81,418,0
+1773010146355,22694,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,81,418,0
+1773010145301,23923,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,81,419,0
+1773010139050,30880,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,81,422,0
+1773010155970,13968,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,81,422,0
+1773010137962,32191,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,82,422,0
+1773010127187,43393,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,82,425,0
+1773010154135,16596,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,82,425,0
+1773010160528,10499,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,82,424,0
+1773010167767,3891,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,83,430,0
+1773010155591,16066,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,83,430,0
+1773010151563,20259,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,83,430,0
+1773010161488,10706,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,83,430,0
+1773010161961,11135,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,84,437,0
+1773010130983,42695,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,85,441,0
+1773010142761,30993,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,85,441,0
+1773010160138,13960,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,86,443,0
+1773010164336,9815,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,86,442,0
+1773010125162,49085,TC_01 - User Login,Non HTTP response code: java.net.SocketException,"Number of samples in transaction : 2, number of failing samples : 2",false,3731,86,444,0
+1773010165779,8573,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,86,444,0
+1773010143562,31673,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,87,449,0
+1773010166779,8688,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,87,450,0
+1773010132338,43460,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,88,452,0
+1773010153834,22105,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,88,453,0
+1773010164834,11375,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,88,456,0
+1773010149908,26348,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,87,454,0
+1773010165786,10646,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,88,455,0
+1773010167851,8822,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,88,457,0
+1773010152715,24263,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,88,456,0
+1773010171822,5284,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,88,457,0
+1773010168168,9130,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,89,459,0
+1773010169050,8599,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,89,461,0
+1773010173096,4577,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,89,461,0
+1773010169225,8587,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,89,463,0
+1773010175236,2712,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,89,461,0
+1773010159563,18444,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,90,463,0
+1773010162046,16328,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,90,464,0
+1773010152330,26360,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,89,465,0
+1773010143266,35553,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,90,467,0
+1773010169931,9046,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,90,465,0
+1773010149129,30358,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,90,468,0
+1773010161161,18716,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,91,469,0
+1773010169940,10000,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,91,470,0
+1773010163560,16460,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,91,468,0
+1773010166518,13571,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,91,468,0
+1773010164034,16082,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,91,467,0
+1773010176431,3735,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,91,468,0
+1773010171657,9031,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,92,472,0
+1773010137265,43555,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,92,473,0
+1773010157385,23548,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,92,473,0
+1773010154930,26414,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,93,475,0
+1773010140771,40956,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,92,476,0
+1773010171657,10127,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,92,476,0
+1773010138731,43082,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,92,476,0
+1773010153162,29072,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,93,480,0
+1773010158762,23955,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,93,480,0
+1773010170762,12049,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,94,482,0
+1773010160608,22240,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,94,482,0
+1773010178976,3939,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,94,482,0
+1773010153961,29233,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,94,483,0
+1773010162762,20647,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,94,484,0
+1773010174099,9376,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,94,484,0
+1773010177649,6015,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,95,486,0
+1773010169162,14553,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,95,486,0
+1773010171027,12702,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,95,486,0
+1773010151516,32252,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,95,487,0
+1773010174761,9154,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,95,487,0
+1773010168982,14951,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,95,487,0
+1773010147562,37352,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,96,493,0
+1773010171570,13880,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,97,497,0
+1773010176256,9204,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,97,496,0
+1773010165494,20059,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,97,496,0
+1773010177106,8551,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,97,497,0
+1773010177811,7858,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,97,497,0
+1773010176979,8814,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,96,497,0
+1773010182811,3290,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,97,496,0
+1773010164361,21754,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,97,496,0
+1773010180688,5559,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3953,97,498,0
+1773010177674,8734,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,97,499,0
+1773010144048,42372,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,97,499,0
+1773010167562,18954,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,97,499,0
+1773010144218,42396,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,97,499,0
+1773010166763,19934,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,97,500,0
+1773010183915,3013,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,98,502,0
+1773010173961,13049,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,98,502,0
+1773010178820,8336,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,98,502,0
+1773010178691,8518,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,98,502,0
+1773010168361,19591,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,99,506,0
+1773010177948,10029,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,99,506,0
+1773010183195,4941,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,99,507,0
+1773010179487,9084,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,100,511,0
+1773010180088,8649,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,100,512,0
+1773010180116,8639,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,100,512,0
+1773010180166,8791,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,100,512,0
+1773010175939,13116,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,100,513,0
+1773010186516,2652,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,101,514,0
+1773010175467,13781,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,101,515,0
+1773010176672,13457,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,101,518,0
+1773010182915,7424,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,100,517,0
+1773010148360,42343,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,100,520,0
+1773010149471,41578,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,101,523,0
+1773010185794,5320,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,100,521,0
+1773010174151,17187,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,100,522,0
+1773010182848,8642,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,100,522,0
+1773010183729,7969,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,101,525,0
+1773010173678,18092,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,101,526,0
+1773010180933,10882,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,101,526,0
+1773010179562,12591,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,101,525,0
+1773010183932,8355,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,101,527,0
+1773010183768,8768,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,102,529,0
+1773010182762,10498,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,103,534,0
+1773010183664,9992,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,103,537,0
+1773010177298,16919,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,104,541,0
+1773010185553,8705,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,104,541,0
+1773010186248,8122,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,104,542,0
+1773010191698,2998,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,104,544,0
+1773010165161,29631,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,104,544,0
+1773010192153,3025,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,104,546,0
+1773010186101,9155,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,104,545,0
+1773010161032,34294,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,104,546,0
+1773010168836,26533,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,104,547,0
+1773010181728,13720,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,103,546,0
+1773010160433,35137,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,103,547,0
+1773010186928,9027,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,102,548,0
+1773010186421,10273,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,103,551,0
+1773010178762,18015,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,103,552,0
+1773010182234,14856,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,103,554,0
+1773010188136,9393,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,104,556,0
+1773010187156,10424,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,104,556,0
+1773010154088,43701,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,103,558,0
+1773010189168,8761,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,103,558,0
+1773010159339,39668,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,105,561,0
+1773010142008,57108,TC_01 - User Login,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 2, number of failing samples : 2",false,3255,105,560,0
+1773010189055,10370,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,105,561,0
+1773010165964,33552,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,105,561,0
+1773010185657,14817,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,107,565,0
+1773010187951,13141,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,107,569,0
+1773010191339,10245,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,108,572,0
+1773010194217,7440,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,108,572,0
+1773010191114,10948,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,109,576,0
+1773010183562,19110,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,109,578,0
+1773010162114,41466,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,111,582,0
+1773010195327,8527,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,111,585,0
+1773010161156,42993,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,111,585,0
+1773010194370,9947,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,111,586,0
+1773010197529,6921,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,111,586,0
+1773010180020,24480,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,111,586,0
+1773010157960,46817,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,111,587,0
+1773010195179,9716,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,111,588,0
+1773010202062,3123,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,112,589,0
+1773010161889,43333,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,111,588,0
+1773010170154,35147,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,110,584,0
+1773010193161,12140,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,110,584,0
+1773010197090,8544,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,110,580,0
+1773010162857,43215,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,111,581,0
+1773010197160,9217,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,111,582,0
+1773010203854,3408,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,112,587,0
+1773010199007,8387,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,112,587,0
+1773010186408,21000,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,112,587,0
+1773010157162,50858,TC_01 - User Login,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 2, number of failing samples : 2",false,3255,113,590,0
+1773010165937,42420,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,113,589,0
+1773010189161,19527,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,114,592,0
+1773010165649,43389,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,114,594,0
+1773010198762,10536,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,115,596,0
+1773010174351,34947,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,115,596,0
+1773010188571,20809,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,114,595,0
+1773010201092,8364,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,114,595,0
+1773010200474,9575,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,115,599,0
+1773010195955,14520,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,115,599,0
+1773010186614,24021,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,115,599,0
+1773010169964,41139,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,116,601,0
+1773010168419,42999,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,116,601,0
+1773010203580,7890,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,116,601,0
+1773010202761,8968,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,117,602,0
+1773010173162,38735,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,117,603,0
+1773010204501,8357,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,118,609,0
+1773010204450,8813,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,119,610,0
+1773010187010,26420,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,119,610,0
+1773010188957,24544,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,119,609,0
+1773010199116,14503,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,118,609,0
+1773010200363,13575,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,118,611,0
+1773010160360,54448,TC_01 - User Login,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 2, number of failing samples : 2",false,3255,120,618,0
+1773010188737,26127,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,120,618,0
+1773010205300,10074,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,119,620,0
+1773010172194,43197,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,119,620,0
+1773010193980,21438,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,118,618,0
+1773010205634,10040,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,118,619,0
+1773010211897,3843,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,118,619,0
+1773010190703,25424,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,118,618,0
+1773010173754,42561,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,118,619,0
+1773010183715,32812,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,118,617,0
+1773010186115,30452,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,118,617,0
+1773010193261,23318,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,118,617,0
+1773010202672,13953,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,118,617,0
+1773010209380,7357,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,118,615,0
+1773010188755,27984,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,118,615,0
+1773010174247,42756,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,118,616,0
+1773010207409,10362,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,118,612,0
+1773010207262,10854,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,118,613,0
+1773010207394,11016,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,118,611,0
+1773010214809,3758,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,118,610,0
+1773010181162,38095,TC_01 - User Login,Non HTTP response code: java.net.SocketException,"Number of samples in transaction : 2, number of failing samples : 2",false,3731,118,608,0
+1773010199563,19844,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,118,608,0
+1773010187561,31996,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,118,607,0
+1773010188361,31531,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,118,608,0
+1773010210475,9639,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,118,607,0
+1773010194761,25504,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,118,606,0
+1773010190761,29766,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,118,606,0
+1773010213263,7806,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,118,605,0
+1773010206377,14930,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,117,603,0
+1773010211470,9920,TC_02 - Browse Inventory,Non HTTP response code: java.net.SocketException,"Number of samples in transaction : 1, number of failing samples : 1",false,3251,117,603,0
+1773010178008,43411,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,116,602,0
+1773010213430,8543,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,116,602,0
+1773010209961,12086,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,116,600,0
+1773010180821,41288,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,116,599,0
+1773010179877,42443,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,116,600,0
+1773010179939,42617,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,116,600,0
+1773010175561,47024,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,115,599,0
+1773010199515,23181,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,115,598,0
+1773010184362,38473,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,115,597,0
+1773010199425,24064,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,115,595,0
+1773010213619,10042,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,114,591,0
+1773010192362,31551,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,114,591,0
+1773010210050,14359,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,114,592,0
+1773010216579,7949,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,113,590,0
+1773010181784,42898,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,113,591,0
+1773010216567,8287,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,113,591,0
+1773010205962,19367,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,113,592,0
+1773010215675,9655,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,113,592,0
+1773010201160,24192,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,113,592,0
+1773010182717,42866,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,113,590,0
+1773010216128,9530,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,113,590,0
+1773010183409,42281,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,113,590,0
+1773010216739,9110,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,113,590,0
+1773010216625,9224,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,113,590,0
+1773010215740,10158,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,113,590,0
+1773010183475,42742,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,113,589,0
+1773010192536,33938,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,113,588,0
+1773010222109,4378,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,113,588,0
+1773010186696,39791,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,113,588,0
+1773010215418,11070,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,113,588,0
+1773010201657,24831,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,113,588,0
+1773010213938,12558,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,112,587,0
+1773010220527,5970,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,112,587,0
+1773010205162,22049,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,112,586,0
+1773010216527,10705,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,112,586,0
+1773010218568,8890,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,112,586,0
+1773010223661,4107,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,112,586,0
+1773010193656,34138,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,111,584,0
+1773010225353,2454,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,110,583,0
+1773010218411,9776,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,110,579,0
+1773010184914,43445,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,110,580,0
+1773010185450,42979,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,110,580,0
+1773010181961,46636,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,110,580,0
+1773010185460,43189,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,110,580,0
+1773010185962,42766,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,110,578,0
+1773010194258,34856,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,110,576,0
+1773010219892,9857,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,110,571,0
+1773010225658,4188,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,110,571,0
+1773010187209,42794,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,110,571,0
+1773010187977,42166,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,109,571,0
+1773010222696,7779,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,109,569,0
+1773010221307,9310,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,109,569,0
+1773010227211,3525,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,109,569,0
+1773010149961,81659,TC_01 - User Login,Non HTTP response code: java.net.SocketException,"Number of samples in transaction : 2, number of failing samples : 2",false,6026,109,569,0
+1773010228597,3094,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,109,569,0
+1773010204895,26899,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,109,568,0
+1773010191815,40236,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,109,568,0
+1773010191490,40600,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,108,566,0
+1773010208020,24107,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,107,565,0
+1773010190339,42285,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,107,565,0
+1773010219557,13269,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,106,563,0
+1773010204362,28591,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,106,563,0
+1773010191770,42649,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,106,560,0
+1773010213961,20762,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,106,560,0
+1773010226488,8522,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,106,559,0
+1773010201584,33476,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,106,559,0
+1773010226487,8937,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,105,559,0
+1773010192287,43362,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,105,559,0
+1773010205301,30627,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,104,555,0
+1773010226487,9520,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,104,556,0
+1773010226496,9518,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,104,556,0
+1773010209037,27295,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,104,556,0
+1773010229114,7338,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,104,556,0
+1773010226497,10141,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,104,556,0
+1773010225583,11252,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,104,556,0
+1773010220114,17069,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,104,554,0
+1773010226474,10762,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,103,554,0
+1773010217772,19474,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,103,554,0
+1773010177161,60094,TC_01 - User Login,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 2, number of failing samples : 2",false,3255,102,553,0
+1773010180361,56934,TC_01 - User Login,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 2, number of failing samples : 2",false,3255,102,553,0
+1773010194792,42949,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,102,551,0
+1773010229749,8177,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,102,551,0
+1773010206073,32082,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,102,551,0
+1773010230736,7474,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,102,551,0
+1773010195257,43161,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,102,552,0
+1773010227807,10787,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,102,552,0
+1773010236452,2478,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,102,551,0
+1773010224528,14483,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,101,550,0
+1773010170581,69350,TC_01 - User Login,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 2, number of failing samples : 2",false,3255,101,545,0
+1773010229846,10100,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,101,542,0
+1773010222835,17151,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,101,542,0
+1773010197929,42231,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,101,542,0
+1773010211417,28896,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,101,543,0
+1773010196694,43663,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,101,543,0
+1773010231794,8816,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,100,542,0
+1773010196777,43939,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,100,542,0
+1773010224854,15959,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,100,542,0
+1773010218116,22812,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,100,541,0
+1773010235010,6039,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,99,540,0
+1773010225690,15480,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,99,540,0
+1773010232127,9210,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,99,539,0
+1773010227233,14185,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,99,539,0
+1773010231691,9729,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,99,539,0
+1773010213161,28770,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,99,538,0
+1773010201960,40222,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,99,539,0
+1773010228187,14105,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,99,538,0
+1773010225898,16401,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,98,536,0
+1773010172361,69969,TC_01 - User Login,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 2, number of failing samples : 2",false,3255,98,536,0
+1773010191560,51392,TC_01 - User Login,Non HTTP response code: java.net.SocketException,"Number of samples in transaction : 2, number of failing samples : 2",false,3731,98,533,0
+1773010232826,10182,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,98,533,0
+1773010236638,6536,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,98,532,0
+1773010235928,7683,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,98,530,0
+1773010208688,35360,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,98,531,0
+1773010241338,2760,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,98,531,0
+1773010197789,46701,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,98,531,0
+1773010240314,4734,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,98,531,0
+1773010203560,41701,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,98,530,0
+1773010237926,7506,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,98,530,0
+1773010155561,90009,TC_01 - User Login,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 2, number of failing samples : 2",false,5550,98,530,0
+1773010242953,3056,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,98,529,0
+1773010175799,70210,TC_01 - User Login,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 2, number of failing samples : 2",false,3255,98,529,0
+1773010241932,4087,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,98,529,0
+1773010214762,31520,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,98,528,0
+1773010239011,8405,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,98,524,0
+1773010221973,25614,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,98,524,0
+1773010204777,43557,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,98,525,0
+1773010195562,52887,TC_01 - User Login,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 2, number of failing samples : 2",false,3255,98,525,0
+1773010239986,8598,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,98,522,0
+1773010212858,35856,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,98,523,0
+1773010210760,38383,TC_01 - User Login,Non HTTP response code: java.net.SocketException,"Number of samples in transaction : 2, number of failing samples : 2",false,3731,98,519,0
+1773010225330,23839,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,98,519,0
+1773010241050,8778,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,97,516,0
+1773010246282,3730,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,97,515,0
+1773010240814,9248,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,97,515,0
+1773010236007,14092,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,97,515,0
+1773010241419,8750,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,97,515,0
+1773010236835,13505,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,97,515,0
+1773010240160,10210,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,97,515,0
+1773010243175,7798,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,97,513,0
+1773010181814,69165,TC_01 - User Login,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 2, number of failing samples : 2",false,6026,97,513,0
+1773010248585,2584,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,97,513,0
+1773010227458,23881,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,97,511,0
+1773010244049,7799,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,97,512,0
+1773010228429,23458,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,97,512,0
+1773010209298,42627,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,97,511,0
+1773010220265,32145,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,97,512,0
+1773010230143,22346,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,97,512,0
+1773010242301,10403,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,97,511,0
+1773010209456,43279,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,97,511,0
+1773010210635,42376,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,97,512,0
+1773010219407,33890,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,96,511,0
+1773010238594,14703,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,96,511,0
+1773010247416,5885,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,96,511,0
+1773010230617,22833,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,95,511,0
+1773010244098,9363,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,95,511,0
+1773010222320,31155,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,95,510,0
+1773010240611,13558,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,95,509,0
+1773010211102,43244,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,94,507,0
+1773010246018,8727,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,94,506,0
+1773010196362,58713,TC_01 - User Login,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 2, number of failing samples : 2",false,3255,94,506,0
+1773010239946,15209,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,94,504,0
+1773010211729,43606,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,93,502,0
+1773010245433,9916,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,93,502,0
+1773010245049,10301,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,93,502,0
+1773010234420,21426,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,93,500,0
+1773010224682,31189,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,93,500,0
+1773010247588,8435,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,93,500,0
+1773010246008,10064,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,93,500,0
+1773010231621,24634,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,93,497,0
+1773010252704,3867,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,93,497,0
+1773010252490,4081,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,93,497,0
+1773010237295,19281,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,91,495,0
+1773010222585,34310,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,91,494,0
+1773010255076,3254,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,91,495,0
+1773010248714,9678,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,91,495,0
+1773010237741,20654,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,91,495,0
+1773010207560,50860,TC_01 - User Login,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 2, number of failing samples : 2",false,3255,91,495,0
+1773010215374,43100,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,91,495,0
+1773010222047,36457,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,91,495,0
+1773010251888,6620,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,91,495,0
+1773010234723,23847,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,91,495,0
+1773010197961,60714,TC_01 - User Login,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 2, number of failing samples : 2",false,3255,91,494,0
+1773010223913,35024,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,91,494,0
+1773010250012,8983,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,91,494,0
+1773010216737,42637,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,91,491,0
+1773010225329,34058,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,90,490,0
+1773010255871,3518,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,90,490,0
+1773010255351,4165,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,89,486,0
+1773010250100,10428,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,88,482,0
+1773010250341,10189,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,88,482,0
+1773010206761,53870,TC_01 - User Login,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 2, number of failing samples : 2",false,3255,88,483,0
+1773010177961,82886,TC_01 - User Login,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 2, number of failing samples : 2",false,3255,88,482,0
+1773010251341,10214,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,88,482,0
+1773010219257,42364,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,88,482,0
+1773010238210,23423,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,88,482,0
+1773010254746,6925,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,88,481,0
+1773010251171,10640,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,88,482,0
+1773010252412,9436,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,88,482,0
+1773010253451,8744,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,88,482,0
+1773010253299,9152,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,88,483,0
+1773010235425,27065,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,88,483,0
+1773010258395,4099,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,87,482,0
+1773010258995,3537,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,87,481,0
+1773010249827,12797,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,87,480,0
+1773010240718,22092,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,86,477,0
+1773010252736,10177,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,86,477,0
+1773010189962,73064,TC_01 - User Login,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 2, number of failing samples : 2",false,3255,86,478,0
+1773010253298,9752,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,86,478,0
+1773010260529,2938,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,86,478,0
+1773010260848,2800,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,85,477,0
+1773010230475,33359,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,85,477,0
+1773010251848,12440,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,85,477,0
+1773010204150,60146,TC_01 - User Login,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 2, number of failing samples : 2",false,3255,85,477,0
+1773010256255,8802,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,85,478,0
+1773010258420,7270,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,85,474,0
+1773010256576,9490,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,85,475,0
+1773010261847,4414,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,85,474,0
+1773010241171,25136,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,85,474,0
+1773010176362,90133,TC_01 - User Login,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 2, number of failing samples : 2",false,5550,85,474,0
+1773010228359,38380,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,85,473,0
+1773010217004,49830,TC_01 - User Login,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 2, number of failing samples : 2",false,3255,85,473,0
+1773010258507,8421,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,85,473,0
+1773010259388,7702,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,85,473,0
+1773010262809,4304,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,85,473,0
+1773010258505,8850,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,85,474,0
+1773010208369,59490,TC_01 - User Login,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 2, number of failing samples : 2",false,3255,85,474,0
+1773010256895,11221,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,85,474,0
+1773010258937,9392,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,85,473,0
+1773010258570,9787,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,85,473,0
+1773010258329,10245,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,85,473,0
+1773010225849,42734,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,85,473,0
+1773010261554,7100,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,84,472,0
+1773010256072,12586,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,83,470,0
+1773010225849,42915,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,83,470,0
+1773010266495,3047,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,83,469,0
+1773010267090,2454,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,83,469,0
+1773010245571,23997,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,83,469,0
+1773010266739,3629,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,83,470,0
+1773010261670,9456,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,83,469,0
+1773010262494,8700,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,83,469,0
+1773010260531,10799,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,83,468,0
+1773010238155,33252,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,82,468,0
+1773010250973,20545,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,82,467,0
+1773010266066,5823,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,81,462,0
+1773010255349,16543,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,81,461,0
+1773010261633,10401,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,80,460,0
+1773010262532,9846,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,80,459,0
+1773010260631,11866,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,80,458,0
+1773010228728,43799,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,80,458,0
+1773010258675,14175,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,80,457,0
+1773010185160,87730,TC_01 - User Login,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 2, number of failing samples : 2",false,5550,80,457,0
+1773010263648,9638,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,80,458,0
+1773010250061,23679,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,80,457,0
+1773010250980,22776,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,79,456,0
+1773010266306,7512,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,79,457,0
+1773010253461,20389,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,79,457,0
+1773010263834,10111,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,78,456,0
+1773010264287,9782,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,78,456,0
+1773010264296,10202,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,78,456,0
+1773010265690,8879,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,78,455,0
+1773010271194,3428,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,78,454,0
+1773010250370,24255,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,77,452,0
+1773010186762,88022,TC_01 - User Login,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 2, number of failing samples : 2",false,5550,76,450,0
+1773010267113,8454,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,76,449,0
+1773010232953,43383,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,76,449,0
+1773010273286,3378,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,76,449,0
+1773010242183,34492,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,76,449,0
+1773010253476,23201,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,76,449,0
+1773010266261,10521,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,76,449,0
+1773010248334,28959,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,76,446,0
+1773010241421,36640,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,76,439,0
+1773010244491,33658,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,76,437,0
+1773010269542,8650,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,76,437,0
+1773010266834,11372,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,76,437,0
+1773010274569,3822,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,76,437,0
+1773010269544,8905,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,76,437,0
+1773010238419,40214,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,76,437,0
+1773010228650,50239,TC_01 - User Login,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 2, number of failing samples : 2",false,3255,76,435,0
+1773010268658,10246,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,76,435,0
+1773010270368,8536,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,76,435,0
+1773010216315,62604,TC_01 - User Login,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 2, number of failing samples : 2",false,3255,76,435,0
+1773010243009,35926,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,76,435,0
+1773010236332,43229,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,76,435,0
+1773010269568,10040,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,76,435,0
+1773010255846,23808,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,76,435,0
+1773010236014,43671,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,75,434,0
+1773010246009,33682,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,75,434,0
+1773010268329,11483,TC_02 - Browse Inventory,Non HTTP response code: java.net.SocketException,"Number of samples in transaction : 1, number of failing samples : 1",false,3251,75,434,0
+1773010249143,30707,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,75,434,0
+1773010237236,42821,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,75,434,0
+1773010258474,21943,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,74,432,0
+1773010271889,8920,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,74,429,0
+1773010271407,9404,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,74,429,0
+1773010272498,8431,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,74,428,0
+1773010237255,43764,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,74,428,0
+1773010272850,8517,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,74,427,0
+1773010272527,9404,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,74,425,0
+1773010221419,60789,TC_01 - User Login,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 2, number of failing samples : 2",false,3255,74,425,0
+1773010273755,9103,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,74,425,0
+1773010278904,4250,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,74,424,0
+1773010279608,3572,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,73,423,0
+1773010263026,20225,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,73,422,0
+1773010239931,43558,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,73,422,0
+1773010280929,3145,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,73,421,0
+1773010278633,6267,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,73,418,0
+1773010274498,10800,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,72,416,0
+1773010272378,13086,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,72,416,0
+1773010242332,43219,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,71,415,0
+1773010268764,17128,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,71,412,0
+1773010278206,7899,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,71,412,0
+1773010280417,6055,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,71,412,0
+1773010276674,9940,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,70,410,0
+1773010276665,10237,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,70,410,0
+1773010278060,8852,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,70,410,0
+1773010278391,8643,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,70,410,0
+1773010243612,43680,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,70,410,0
+1773010273818,13599,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,70,410,0
+1773010276676,10998,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,69,409,0
+1773010278148,9900,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,69,407,0
+1773010272890,15358,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,69,407,0
+1773010278889,9482,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,69,407,0
+1773010279691,8853,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,68,404,0
+1773010245262,43455,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,68,404,0
+1773010278934,9876,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,68,404,0
+1773010279850,9181,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,68,403,0
+1773010285892,4045,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,68,402,0
+1773010281931,8566,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,67,398,0
+1773010288810,2651,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,67,397,0
+1773010288048,3480,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,66,396,0
+1773010248449,43098,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,65,395,0
+1773010278904,12954,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,65,394,0
+1773010287034,5425,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,64,392,0
+1773010250168,42323,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,63,391,0
+1773010283252,9445,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,62,388,0
+1773010283180,9588,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,62,388,0
+1773010268358,24448,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,62,388,0
+1773010262195,31011,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,62,388,0
+1773010284074,9551,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,61,387,0
+1773010281020,12670,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,61,387,0
+1773010226218,67791,TC_01 - User Login,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 2, number of failing samples : 2",false,3255,61,387,0
+1773010258392,35698,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,61,387,0
+1773010251926,42414,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,60,386,0
+1773010255336,39562,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,60,384,0
+1773010209162,85793,TC_01 - User Login,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 2, number of failing samples : 2",false,3255,60,384,0
+1773010268574,26523,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,60,384,0
+1773010281367,14322,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,60,383,0
+1773010261811,34001,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,60,383,0
+1773010211562,84605,TC_01 - User Login,Non HTTP response code: java.net.SocketException,"Number of samples in transaction : 2, number of failing samples : 2",false,3731,59,380,0
+1773010208356,88338,TC_01 - User Login,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 2, number of failing samples : 2",false,5550,59,377,0
+1773010282858,13958,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,59,377,0
+1773010293625,3240,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,58,376,0
+1773010292768,4160,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,57,375,0
+1773010288248,8747,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,56,374,0
+1773010272034,25455,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,56,372,0
+1773010274069,23577,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,55,371,0
+1773010286902,10746,TC_02 - Browse Inventory,Non HTTP response code: java.net.SocketException,"Number of samples in transaction : 1, number of failing samples : 1",false,3251,54,370,0
+1773010280812,16850,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,53,368,0
+1773010294009,4433,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,52,367,0
+1773010288716,9737,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,51,366,0
+1773010290498,9125,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,51,366,0
+1773010286614,13041,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,51,366,0
+1773010262450,37342,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,51,366,0
+1773010256023,43823,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,50,365,0
+1773010294955,5417,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,49,363,0
+1773010279562,21207,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,49,362,0
+1773010292807,8462,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,49,361,0
+1773010276782,24570,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,49,358,0
+1773010212361,89183,TC_01 - User Login,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 2, number of failing samples : 2",false,5550,48,357,0
+1773010278919,23818,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,48,354,0
+1773010261621,42076,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,48,353,0
+1773010295098,8687,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,48,353,0
+1773010295689,8201,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,48,353,0
+1773010271127,33304,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,48,351,0
+1773010301269,4179,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,47,349,0
+1773010278192,27352,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,46,348,0
+1773010263049,42511,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,46,348,0
+1773010262912,42863,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,46,348,0
+1773010283490,22575,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,45,347,0
+1773010292697,13511,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,45,347,0
+1773010285550,21162,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,45,347,0
+1773010303786,3303,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,45,345,0
+1773010254348,53446,TC_01 - User Login,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 2, number of failing samples : 2",false,3255,44,343,0
+1773010286105,22504,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,44,342,0
+1773010265057,43610,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,43,341,0
+1773010274784,33972,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,43,340,0
+1773010300769,7998,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,43,340,0
+1773010300372,8732,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,42,339,0
+1773010299655,9712,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,42,338,0
+1773010296995,12384,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,42,338,0
+1773010296167,13280,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,42,337,0
+1773010298453,11362,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,42,336,0
+1773010266928,43936,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,42,332,0
+1773010291547,19349,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,41,331,0
+1773010267859,43209,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,41,331,0
+1773010267355,43793,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,41,331,0
+1773010286912,24294,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,41,331,0
+1773010268116,43683,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,40,330,0
+1773010289031,22936,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,40,330,0
+1773010288544,23549,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,40,330,0
+1773010302737,9790,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,39,329,0
+1773010278449,34484,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,39,328,0
+1773010277293,36282,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,38,325,0
+1773010293690,19959,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,38,325,0
+1773010310896,3042,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,38,323,0
+1773010296694,17953,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,38,319,0
+1773010306209,9248,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,37,318,0
+1773010301545,13969,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,37,318,0
+1773010305544,10361,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,37,317,0
+1773010282208,33780,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,37,317,0
+1773010309379,7987,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,37,313,0
+1773010308756,8718,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,37,312,0
+1773010273945,43813,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,37,311,0
+1773010309448,8439,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,36,310,0
+1773010275568,43510,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,36,306,0
+1773010299623,19587,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,35,305,0
+1773010309815,9675,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,34,303,0
+1773010309367,10810,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,34,299,0
+1773010308667,11746,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,33,298,0
+1773010279812,40700,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,33,298,0
+1773010285298,35642,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,33,297,0
+1773010307794,13211,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,32,295,0
+1773010306712,14934,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,32,293,0
+1773010309104,12612,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,32,293,0
+1773010313575,8254,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,32,293,0
+1773010279685,42349,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,32,293,0
+1773010294339,27795,TC_02 - Browse Inventory,Non HTTP response code: java.net.SocketException,"Number of samples in transaction : 1, number of failing samples : 1",false,3251,32,293,0
+1773010315907,6686,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,32,293,0
+1773010311968,10678,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,31,292,0
+1773010313649,9442,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,31,289,0
+1773010319491,3727,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,31,289,0
+1773010315457,7911,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,30,288,0
+1773010313938,9885,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,29,287,0
+1773010280809,43193,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,29,287,0
+1773010315515,8691,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,28,285,0
+1773010311799,12706,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,28,283,0
+1773010315989,8806,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,28,283,0
+1773010320513,4301,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,28,282,0
+1773010322646,3328,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,27,276,0
+1773010323091,3407,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,26,273,0
+1773010320414,6993,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,25,269,0
+1773010323823,3765,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,24,267,0
+1773010317888,10442,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,23,264,0
+1773010321830,6786,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,23,263,0
+1773010317368,12609,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,22,257,0
+1773010287674,42499,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,21,254,0
+1773010306066,24126,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,20,253,0
+1773010303697,26513,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,19,252,0
+1773010321647,8949,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,19,252,0
+1773010311148,20191,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,19,251,0
+1773010321005,10582,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,19,251,0
+1773010321716,9915,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,19,251,0
+1773010330596,2787,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,19,249,0
+1773010317475,16655,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,18,245,0
+1773010294897,39597,TC_02 - Browse Inventory,Non HTTP response code: java.net.SocketException,"Number of samples in transaction : 1, number of failing samples : 1",false,3251,18,245,0
+1773010331339,4267,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,18,242,0
+1773010331632,4108,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,17,241,0
+1773010276336,60353,TC_01 - User Login,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 2, number of failing samples : 2",false,3255,16,237,0
+1773010324206,12736,TC_02 - Browse Inventory,Non HTTP response code: java.net.SocketException,"Number of samples in transaction : 1, number of failing samples : 1",false,3251,16,236,0
+1773010328336,8873,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,16,236,0
+1773010331588,6579,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,16,235,0
+1773010303890,34581,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,15,233,0
+1773010311068,27885,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,14,232,0
+1773010324794,14172,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,14,232,0
+1773010287291,51675,TC_01 - User Login,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 2, number of failing samples : 2",false,3255,14,232,0
+1773010337209,2861,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,13,229,0
+1773010330210,10995,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,12,225,0
+1773010322135,20035,TC_01 - User Login,200,"Number of samples in transaction : 2, number of failing samples : 2",false,2183,12,224,0
+1773010334129,9379,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,12,220,0
+1773010334495,9647,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,12,211,0
+1773010341205,3041,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,12,210,0
+1773010312527,32568,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,11,208,0
+1773010343508,3395,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,10,203,0
+1773010324505,24260,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,9,200,0
+1773010336689,14996,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,8,196,0
+1773010338966,13771,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,8,195,0
+1773010338953,14103,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,7,194,0
+1773010344143,12825,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,7,188,0
+1773010336942,23308,TC_01 - User Login,Non HTTP response code: java.net.SocketException,"Number of samples in transaction : 2, number of failing samples : 2",false,3731,6,180,0
+1773010351686,8720,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,6,180,0
+1773010353056,9417,TC_01 - User Login,405,"Number of samples in transaction : 2, number of failing samples : 1",false,2183,6,180,0
+1773010360406,4886,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,6,179,0
+1773010322034,43714,TC_02 - Browse Inventory,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",false,2775,5,178,0
+1773010342170,24501,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,4,177,0
+1773010305560,63886,TC_01 - User Login,Non HTTP response code: java.net.SocketException,"Number of samples in transaction : 2, number of failing samples : 2",false,3731,3,174,0
+1773010369447,14535,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,3,163,0
+1773010360250,32642,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,2,160,0
+1773010362473,33253,TC_02 - Browse Inventory,404,"Number of samples in transaction : 1, number of failing samples : 1",false,3954,1,157,0
