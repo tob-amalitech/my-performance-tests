@@ -1,4 +1,4 @@
-name: Performance Tests - Swag Labs (QAM010)
+name: Performance Tests - Swag Labs 
 
 on:
   push:
